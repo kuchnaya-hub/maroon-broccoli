@@ -6,7 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Resell better with marketing videos
-    content: THis was changed by snd
+    content: THis was changed by snds
     actions:
       - label: Learn More
         url: /features
