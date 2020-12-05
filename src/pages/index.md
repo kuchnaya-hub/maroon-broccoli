@@ -8,7 +8,7 @@ sections:
     title: Resell better with marketing videos
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      who need a sleek, modern SaaS site. change
     actions:
       - label: Learn More
         url: /features
