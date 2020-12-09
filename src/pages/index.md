@@ -9,7 +9,7 @@ sections:
     content: Get promo videos and creatives of your product instantly.
     actions:
       - label: Download App
-        url: /features
+        url: 'https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads'
         primary: true
   - section_id: features
     type: section_features
