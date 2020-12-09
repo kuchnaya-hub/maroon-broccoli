@@ -6,7 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Marketing App for Resellers.
-    content: Get promo videos and creatives of your product instantly.
+    content: Get promo videos and creatives for your product instantly.
     actions:
       - label: Download App
         url: 'https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads'
