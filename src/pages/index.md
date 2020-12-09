@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Resell better with marketing videos
+    title: mAr
     content: THis was changed by snds
     actions:
       - label: Learn More
