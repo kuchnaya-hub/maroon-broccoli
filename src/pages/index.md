@@ -6,7 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Marketing App for Resellers.
-    content: THis was changed by snds
+    content: Get promo videos and creatives of your product instantly.
     actions:
       - label: Learn More
         url: /features
