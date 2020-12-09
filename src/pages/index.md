@@ -14,7 +14,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Made specially for Reseller Apps
+    title: Just for Reseller Apps
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus branching thing
