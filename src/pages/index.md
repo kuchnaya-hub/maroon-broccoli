@@ -8,7 +8,7 @@ sections:
     title: Marketing App for Resellers.
     content: Get promo videos and creatives of your product instantly.
     actions:
-      - label: Learn More
+      - label: Download App
         url: /features
         primary: true
   - section_id: features
