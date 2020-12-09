@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/feature3.png
     image_alt: App preview
     title: Marketing App for Resellers.
     content: Get promo videos and creatives for your product instantly.
