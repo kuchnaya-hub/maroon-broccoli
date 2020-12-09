@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: mAr
+    title: Marketing App for Resellers
     content: THis was changed by snds
     actions:
       - label: Learn More
