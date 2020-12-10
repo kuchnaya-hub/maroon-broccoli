@@ -18,7 +18,7 @@ sections:
           - label: Download App
             url: /signup
       - title: Professional
-        price: ₹100/m
+        price: ₹100
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula
