@@ -88,6 +88,8 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Behtar Ads - Marketing App for Resellers
-meta_description: 'Get promo videos for your product from Meesho, '
+meta_description: >-
+  Get promo videos for your product from Meesho, Shop101 and other reselling
+  apps.
 template: landing
 ---
