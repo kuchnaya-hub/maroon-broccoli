@@ -31,7 +31,7 @@ sections:
             url: /signup
             primary: true
       - title: Enterprise
-        price: $149/m
+        price: Contact
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
