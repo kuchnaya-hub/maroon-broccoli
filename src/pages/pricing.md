@@ -17,7 +17,7 @@ sections:
         actions:
           - label: Download App
             url: /signup
-      - title: Professional
+      - title: Re
         price: ₹100
         details: |-
           * Curabitur non nunc mollis
