@@ -10,10 +10,10 @@ sections:
       - title: Free Credits
         price: ₹0
         details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+          * 500 Free credits
+          * 25 Credits per Video
+          * Support Image Ads
+          * Supports Meesho & Shop101 apps
         actions:
           - label: Download App
             url: /signup
