@@ -35,7 +35,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
     faq_items:
-      - question: What is Behtar Ads App?
+      - question: What is Behtar Ads App & Benefits?
         answer: >-
           Short Video creation has undeniably become an essential tool for
           social media marketing business. If you’re like many E-Commerce
