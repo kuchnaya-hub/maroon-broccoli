@@ -8,7 +8,7 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: Free Credits
-        price: 500 Credits
+        price: '500'
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
