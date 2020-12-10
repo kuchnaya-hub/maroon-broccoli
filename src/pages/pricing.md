@@ -42,7 +42,7 @@ sections:
           Platforms and  Reseller App Platforms. you probably use your phone to
           create your products short video content. Behtar Ads App will help you
           for short video creation from any reseller app.
-      - question: Aliquam eget purus ante?
+      - question: How Does Behtar Ads App Work?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
