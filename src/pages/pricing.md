@@ -30,7 +30,7 @@ sections:
           - label: Order Now
             url: /signup
             primary: true
-      - title: Enterprise
+      - title: Business
         price: Contact
         details: |-
           * Vestibulum non eros quis
