@@ -27,7 +27,7 @@ sections:
           * Nullam sollicitudin ante
         highlight: true
         actions:
-          - label: Order Now
+          - label: D
             url: /signup
             primary: true
   - section_id: faq
