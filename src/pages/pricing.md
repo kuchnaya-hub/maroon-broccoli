@@ -20,11 +20,10 @@ sections:
       - title: Professional
         price: ₹100
         details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
+          * 750 credits
+          * 25 Credits per Video
+          * Support Image Ads
+          * Supports Meesho & Shop101
         highlight: true
         actions:
           - label: Download App
