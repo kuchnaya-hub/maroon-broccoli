@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Marketing App for Resellers.
+    title: Marketing App for Indian Resellers.
     content: >-
       Get promo videos and creatives for your reselleing product instantly. Use
       your favourite reselling app like Meesho and Shop101
