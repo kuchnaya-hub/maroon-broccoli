@@ -31,7 +31,7 @@ sections:
             url: /signup
             primary: true
       - title: Business
-        price: Contact
+        price: Custom
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
