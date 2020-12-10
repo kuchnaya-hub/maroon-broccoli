@@ -15,7 +15,7 @@ sections:
           * Suspendisse ut lacus
           * Etiam eget dui a augue
         actions:
-          - label: Order Now
+          - label: Download App
             url: /signup
       - title: Professional
         price: $49/m
