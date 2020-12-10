@@ -27,7 +27,7 @@ sections:
           * Nullam sollicitudin ante
         highlight: true
         actions:
-          - label: D
+          - label: Download App
             url: /signup
             primary: true
   - section_id: faq
