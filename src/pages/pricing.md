@@ -38,7 +38,7 @@ sections:
           * Mauris eleifend sapien
           * Phasellus lobortis risus
         actions:
-          - label: Order Now
+          - label: Contact us
             url: /signup
   - section_id: faq
     type: section_faq
