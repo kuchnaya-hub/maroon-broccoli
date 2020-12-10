@@ -37,11 +37,11 @@ sections:
     faq_items:
       - question: What is Behtar Ads App?
         answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
+          Short Video creation has undeniably become an essential tool for
+          social media marketing business. If you’re like many E-Commerce
+          Platforms and  Reseller App Platforms. you probably use your phone to
+          create your products short video content. Behtar Ads App will help you
+          for short video creation from any reseller app.
       - question: Aliquam eget purus ante?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
