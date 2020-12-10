@@ -88,6 +88,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Behtar Ads - Marketing App for Resellers
-meta_description: The preview of the Azimuth theme
+meta_description: 'Get '
 template: landing
 ---
