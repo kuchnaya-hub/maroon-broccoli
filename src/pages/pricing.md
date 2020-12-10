@@ -45,13 +45,6 @@ sections:
       - question: How Does Behtar Ads App Work?
         answer: "How to make short marketing video ads from behtarads App\nOnce you install the app, sign up into the app, and follow these simple 3 steps,\n\n\n\U0001F933 **Share** : Once you identify the right product catlog which you think your customer will buy, click on “Share to behtarads App” button. \n\n\n**Video Types** Select the video type's to create a short video for your product.\n\n**Video share on social media** After the video is ready, you can share it on social media Sites.\n"
       - question: 'How Can i sign up for Behtar Ads '
-        answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+        answer: ''
 template: landing
 ---
