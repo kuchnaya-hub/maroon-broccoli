@@ -7,7 +7,7 @@ sections:
     title: Pricing Plans
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - title: Free Credits
+      - title: Starter
         price: ₹0
         details: |-
           * 500 Free credits
