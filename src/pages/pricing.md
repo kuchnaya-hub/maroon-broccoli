@@ -30,16 +30,6 @@ sections:
           - label: Order Now
             url: /signup
             primary: true
-      - title: Business
-        price: Custom
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
-        actions:
-          - label: Contact us
-            url: /signup
   - section_id: faq
     type: section_faq
     background: gray
