@@ -65,7 +65,7 @@ sections:
           you can withdraw anytime money from Behtar Ads app. you just have to
           email us.
         type: faq_item
-      - question: Can i edit my video?
+      - question: Can I edit my video?
         answer: No. Behtar Ads app there is no facility to edit video option.
         type: faq_item
 template: landing
