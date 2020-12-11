@@ -17,17 +17,17 @@
                 "url": "/pricing"
             },
             {
-                "label": "Download App",
-                "url": "https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads",
-                "primary": true
-            },
-            {
                 "label": "Templates",
                 "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Download App",
+                "url": "https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads",
+                "primary": true
             }
         ]
     },
