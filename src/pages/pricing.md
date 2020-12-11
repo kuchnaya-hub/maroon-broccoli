@@ -55,9 +55,7 @@ sections:
           support@behtarads.com for help, and include the remains coins to
           receive priority support.
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Is there trial time on Behtar Ads Free Edition?
         answer: >-
           ## Lorem ipsum
 
