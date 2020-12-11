@@ -49,5 +49,20 @@ sections:
         answer: >-
           Coins means money, the more money you deposit, then you more will get
           coins in Behtar Ads App.
+      - question: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        type: faq_item
 template: landing
 ---
