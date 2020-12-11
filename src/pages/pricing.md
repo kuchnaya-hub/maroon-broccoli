@@ -35,7 +35,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: ''
     faq_items:
-      - question: What is Behtar Ads App & Benefits?
+      - question: What's Behtar Ads App?
         answer: >-
           Short Video is one of the fastest-growing content types today. videos
           get more views, social posts with videos get more likes, and video
