@@ -60,9 +60,7 @@ sections:
           No, no using the time limit, you could click here to download the Free
           Edition for new number.
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: what is policy of return money (coins) and any c
         answer: >-
           ## Lorem ipsum
 
