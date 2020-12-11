@@ -52,7 +52,8 @@
             {
                 "label": "Facebook",
                 "url": "https://www.facebook.com/Behtarads/",
-                "new_window": true
+                "new_window": true,
+                "primary": true
             },
             {
                 "label": "Instagram",
