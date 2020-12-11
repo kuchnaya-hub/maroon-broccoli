@@ -75,10 +75,11 @@ sections:
         answer: Yes. The videos you download are yours forever.
         type: faq_item
       - question: How many reseller app does Behtar Ads Support?
-        answer: |
+        answer: |-
           1. Meesho
           2. Shop101
-          3. Glowroad
+          3. Glowroad (Coming soon)
+          4. The rest of the remaining Reseller app will connect.
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
