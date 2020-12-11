@@ -85,16 +85,8 @@ sections:
           What is the phone resolution and file type of the videos I can create
           with Behtar Ads?
         answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          All videos can be downlaoded in MP4 format. supported any phone
+          resolution.
         type: faq_item
 template: landing
 ---
