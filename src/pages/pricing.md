@@ -46,6 +46,8 @@ sections:
           contain any from malware including but not limited to spyware,
           viruses, adware, trojans, and backdoors, etc.
       - question: what is mean by coins option.
-        answer: You have to go Playstore and search Behtar Ads
+        answer: >-
+          Coins means money, the more money you deposit, then you more will get
+          coins in Behtar Ads App.
 template: landing
 ---
