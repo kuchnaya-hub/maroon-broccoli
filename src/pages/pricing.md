@@ -66,17 +66,7 @@ sections:
           email us.
         type: faq_item
       - question: Will multiple people see and work on my video?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: Although Behtar Ads app there is no facility to edit video option.
         type: faq_item
 template: landing
 ---
