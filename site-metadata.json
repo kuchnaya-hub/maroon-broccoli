@@ -43,7 +43,7 @@
             },
             {
                 "label": "Contact",
-                "url": "/contacta",
+                "url": "support",
                 "primary": true
             }
         ],
