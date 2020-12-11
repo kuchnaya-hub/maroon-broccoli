@@ -55,7 +55,7 @@ sections:
           support@behtarads.com for help, and include the remains coins to
           receive priority support.
         type: faq_item
-      - question: What video sizes can I create with Behtar Ads?
+      - question: What video & image sizes can I create with Behtar Ads?
         answer: |-
           you can create:
 
