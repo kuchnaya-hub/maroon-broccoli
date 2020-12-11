@@ -82,8 +82,8 @@ sections:
           4. The rest of the remaining Reseller app will connect.
         type: faq_item
       - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          What is the phone resolution and file type of the videos I can create
+          with Behtar Ads?
         answer: >-
           ## Lorem ipsum
 
