@@ -1,5 +1,5 @@
 ---
-title: Release Notes - Azimuth Improvements and New Integrations
+title: Powerful features that make video creation easy
 subtitle: This is a sub header
 author: src/data/authors/john-doe.yaml
 excerpt: >-
