@@ -2,7 +2,7 @@
 title: About Us
 subtitle: ''
 image: images/feature1.png
-image_alt: Team members in a conference room
+image_alt: ''
 template: page
 ---
 Behtarads is a Short Marketing Videos Ads App. Made in India.
