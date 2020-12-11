@@ -31,7 +31,7 @@ sections:
         primary: true
       - label: View Demo
         url: '#'
-      - label: ''
+      - label: h
         url: lorem-ipsum
         primary: false
         new_window: false
