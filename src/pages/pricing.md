@@ -90,16 +90,9 @@ sections:
         type: faq_item
       - question: Do you save debit / credit card details?
         answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          No, absolutely not. Your debit/credit card details are not stored on
+          our servers. The information goes directly from your computer to our
+          payment service provider
         type: faq_item
 template: landing
 ---
