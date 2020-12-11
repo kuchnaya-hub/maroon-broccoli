@@ -66,7 +66,7 @@ sections:
           email us.
         type: faq_item
       - question: Can i edit my video?
-        answer: Although Behtar Ads app there is no facility to edit video option.
+        answer: No. Behtar Ads app there is no facility to edit video option.
         type: faq_item
 template: landing
 ---
