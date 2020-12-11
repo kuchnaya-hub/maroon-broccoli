@@ -79,7 +79,7 @@ sections:
           1. Meesho
           2. Shop101
           3. Glowroad (Coming soon)
-          4. The rest of the remaining Reseller app will connect.
+          4. The rest of the remaining Reseller app will connect soon.
         type: faq_item
       - question: >-
           What is the phone resolution and file type of the videos I can create
