@@ -56,9 +56,12 @@ sections:
           receive priority support.
         type: faq_item
       - question: What video sizes can I create with Behtar Ads?
-        answer: >-
-          No, no using the time limit, you could click here to download the Free
-          Edition for new number.
+        answer: |-
+          you can create:
+
+          Vertical videos
+          Square videos
+          Image creation
         type: faq_item
       - question: what is policy of return money & charges applicable?
         answer: >-
