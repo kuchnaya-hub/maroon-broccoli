@@ -55,7 +55,7 @@ sections:
           support@behtarads.com for help, and include the remains coins to
           receive priority support.
         type: faq_item
-      - question: Is there trial time on Behtar Ads Free Edition?
+      - question: What video sizes can I create with Behtar Ads?
         answer: >-
           No, no using the time limit, you could click here to download the Free
           Edition for new number.
