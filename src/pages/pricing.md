@@ -59,9 +59,9 @@ sections:
         answer: |-
           you can create:
 
-          Vertical videos
-          Square videos
-          Image creation
+          Vertical videos,
+          Square videos,
+          Image creation.
         type: faq_item
       - question: what is policy of return money & charges applicable?
         answer: >-
