@@ -51,16 +51,9 @@ sections:
           coins in Behtar Ads App.
       - question: 'I met other error when using Behtar Ads, what can i do?'
         answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Please capture the screenshot pictures of the error, then mail to
+          support@behtarads.com for help, and include the remains coins to
+          receive priority support.
         type: faq_item
 template: landing
 ---
