@@ -22,7 +22,7 @@
                 "primary": true
             },
             {
-                "label": "Temp",
+                "label": "Templates",
                 "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": false,
