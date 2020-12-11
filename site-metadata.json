@@ -32,7 +32,7 @@
             {
                 "label": "About Us",
                 "url": "/about",
-                "new_window": true
+                "new_window": false
             },
             {
                 "label": "Blog",
