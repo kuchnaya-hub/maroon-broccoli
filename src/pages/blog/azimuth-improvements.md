@@ -1,5 +1,5 @@
 ---
-title: Powerful features that make video creation easy
+title: Powerful features that make short video creation easy
 subtitle: This is a sub header
 author: src/data/authors/john-doe.yaml
 excerpt: >-
