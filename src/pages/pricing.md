@@ -65,9 +65,7 @@ sections:
           you can withdraw anytime money from Behtar Ads app. you just have to
           email us.
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Will multiple people see and work on my video?
         answer: >-
           ## Lorem ipsum
 
