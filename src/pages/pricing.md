@@ -33,7 +33,7 @@ sections:
     type: section_faq
     background: gray
     title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: ''
     faq_items:
       - question: What is Behtar Ads App & Benefits?
         answer: >-
