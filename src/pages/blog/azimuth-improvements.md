@@ -1,6 +1,6 @@
 ---
 title: Powerful new features that make short video creation easy
-subtitle: Short Video Ideas for Your Business
+subtitle: Short Video Ideas for Your Reselling Business
 author: src/data/authors/john-doe.yaml
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
