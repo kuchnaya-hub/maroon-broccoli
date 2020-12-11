@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: ''
-image: images/about.jpg
+image: images/feature1.png
 image_alt: Team members in a conference room
 template: page
 ---
