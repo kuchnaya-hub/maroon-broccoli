@@ -64,7 +64,8 @@
             {
                 "label": "WhatsApp",
                 "url": "https://www.whatsapp.com/download/",
-                "new_window": true
+                "new_window": true,
+                "primary": true
             }
         ],
         "has_subscribe": false,
