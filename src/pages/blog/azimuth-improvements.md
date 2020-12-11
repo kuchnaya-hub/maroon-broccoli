@@ -4,7 +4,7 @@ subtitle: Short Video Ideas for Your Reselling Business
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
-date: '2020-12-26'
+date: '2020-12-11'
 thumb_image: images/1_thumb.jpg
 template: post
 ---
