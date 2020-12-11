@@ -72,17 +72,7 @@ sections:
         answer: No. Behtar Ads app there is no facility to edit video option.
         type: faq_item
       - question: Can I use the video after my subscription is over?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: Yes. The videos you download are yours forever.
         type: faq_item
 template: landing
 ---
