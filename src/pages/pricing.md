@@ -62,16 +62,8 @@ sections:
         type: faq_item
       - question: what is policy of return money & charges applicable?
         answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          you can withdraw anytime money from Behtar Ads app. you just have to
+          email us.
         type: faq_item
 template: landing
 ---
