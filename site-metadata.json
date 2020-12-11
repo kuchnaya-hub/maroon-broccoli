@@ -43,7 +43,8 @@
             },
             {
                 "label": "Contact",
-                "url": "/contact"
+                "url": "/contact",
+                "primary": true
             }
         ],
         "has_social": true,
