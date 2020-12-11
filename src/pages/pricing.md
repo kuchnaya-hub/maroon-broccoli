@@ -74,9 +74,7 @@ sections:
       - question: Can I use the video after my subscription is over?
         answer: Yes. The videos you download are yours forever.
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: How many reseller app does Behtar Ads Support?
         answer: >-
           ## Lorem ipsum
 
