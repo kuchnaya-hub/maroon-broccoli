@@ -46,9 +46,13 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          **Share video Through Social media**
+
+
+          Just like WhatsApp, you can also use social media accounts as your
+          product sharing platform. You can share the your products short video
+          ads to your social media accounts or wall directly from the Behtar Ads
+          app
         actions:
           - label: Learn More
             url: /features
