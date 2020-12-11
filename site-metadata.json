@@ -25,7 +25,7 @@
     },
     "footer": {
         "logo_img": "images/charming-lettuce.png",
-        "tagline": "SaaS theme by Stackbit",
+        "tagline": "",
         "has_nav": true,
         "nav_title": "Company",
         "nav_links": [
