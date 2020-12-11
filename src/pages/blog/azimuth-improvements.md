@@ -1,6 +1,6 @@
 ---
 title: Powerful new features that make short video creation easy
-subtitle: This is a sub header
+subtitle: Video Ideas for Your Business
 author: src/data/authors/john-doe.yaml
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
