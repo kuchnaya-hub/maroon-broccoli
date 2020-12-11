@@ -25,9 +25,11 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Browsing through your product catalogs to select products that you
+          want to share with your customer. You can share product catalogs via
+          Behtar Ads App to your contacts using the one-click share option.All
+          you have to do is select the catalogs or products you want to share
+          and click on the ‘Other Share’ button option.
         actions:
           - label: Learn More
             url: /features
