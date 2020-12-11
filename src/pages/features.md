@@ -8,20 +8,23 @@ sections:
     image_alt: App preview on a phone and tablet
     title: The Best Features of Your Services
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      How to make short marketing video ads from behtarads App
+
+      Once you install the app, sign up into the app, and follow these simple 3
+      steps,
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      * Once you identify the right product catlog which you think your customer
+      will buy, click on “Share on other button to behtarads App” . Wait
+      sometimes then you getting short video ads.
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      * which video types do you like to try
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      * Post on social media after the short video is ready.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Short video marketing gives you good views & attracting customer is very
+      easy.
     actions:
       - label: Free Trial
         url: /signup
