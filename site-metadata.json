@@ -57,7 +57,8 @@
             {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/behtarads",
-                "new_window": true
+                "new_window": true,
+                "primary": true
             },
             {
                 "label": "WhatsApp",
