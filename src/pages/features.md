@@ -31,12 +31,6 @@ sections:
         primary: true
       - label: View Demo
         url: '#'
-      - label: h
-        url: lorem-ipsum
-        primary: false
-        new_window: false
-        no_follow: false
-        type: action
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!
