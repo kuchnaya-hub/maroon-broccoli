@@ -45,7 +45,7 @@ sections:
           it's 100% SAFE & Clean made in india product, Which means it does not
           contain any from malware including but not limited to spyware,
           viruses, adware, trojans, and backdoors, etc.
-      - question: 'How Can i sign up for Behtar Ads '
+      - question: what is mean by coins option.
         answer: You have to go Playstore and search Behtar Ads
 template: landing
 ---
