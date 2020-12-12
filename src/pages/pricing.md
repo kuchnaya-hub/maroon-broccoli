@@ -43,7 +43,6 @@ sections:
         answer: >-
           Yes!!! Behtar Ads is completely free to download and install. 
 
-
           Infact we are giving a small amount of free coins / credits for a
           limited period to new users.
 
