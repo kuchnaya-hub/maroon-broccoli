@@ -31,7 +31,7 @@
         "nav_links": [
             {
                 "label": "About Us",
-                "url": "https://behtarads.netlify.app/aboutus",
+                "url": "https://behtarads.netlify.app/about",
                 "new_window": false
             },
             {
