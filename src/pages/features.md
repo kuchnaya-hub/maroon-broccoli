@@ -15,16 +15,16 @@ sections:
 
 
       * Once you identify the right product catlog which you think your customer
-      will buy, click on *Share* on other button and select *Behtar Ads* . Wait
-      sometimes then you getting short video ads.
+      will buy, click on **Share** on other button and select **Behtar Ads** .  
 
-      * which video types do you like to try
+      * Select a **Creative Format** and wait for a few seconds for your data to
+      be gathered.
 
       * Post on social media after the short video is ready.
 
 
-      Short video marketing gives you good views & attracting customer is very
-      easy.
+      Short video marketing gives you good views & attracting customer becomes
+      super easy!
     actions:
       - label: Free Trial
         url: /signup
