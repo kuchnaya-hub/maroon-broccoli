@@ -12,7 +12,7 @@ sections:
       products? *Behtar Ads* has got the best features for you!
 
 
-      Using our android app allows you to -
+      Using our mobile app allows you to -
 
 
       1. Dynamically create Advertisements in a *matter of seconds* with your
