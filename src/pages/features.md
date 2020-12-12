@@ -8,7 +8,7 @@ sections:
     image_alt: App preview on a phone and tablet
     title: The Best Features of Your Behtar Ads App Service
     content: >-
-      How to make short marketing video ads from behtarads App
+      How to make short marketing video ads from Behtar Ads App?
 
       Once you install the app, sign up into the app, and follow these simple 3
       steps,
