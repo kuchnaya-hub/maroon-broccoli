@@ -33,20 +33,6 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Cool Feature of Your Services
-        image: images/feature3.png
-        image_alt: App user profile preview
-        content: >-
-          **Share video Through Social media**
-
-
-          Just like WhatsApp, you can also use social media accounts as your
-          product sharing platform. You can share the your products short video
-          ads to your social media accounts or wall directly from the Behtar Ads
-          app
-        actions:
-          - label: Learn More
-            url: /features
   - section_id: reviews
     type: section_reviews
     background: white
