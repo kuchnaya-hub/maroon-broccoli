@@ -67,7 +67,7 @@ sections:
           You can create content in following formats for now.
           * Vertical videos, Square videos, Square images
         type: faq_item
-      - question: what is policy of return money & charges applicable?
+      - question: What is policy of refund & charges applicable?
         answer: >-
           you can withdraw anytime money from Behtar Ads app. you just have to
           email us.
