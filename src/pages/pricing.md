@@ -53,8 +53,9 @@ sections:
           to spyware, viruses, adware, trojans, and backdoors, etc.
       - question: what is mean by coins option.
         answer: >-
-          Coins means money, the more money you deposit, then you more will get
-          coins in Behtar Ads App.
+          **Coins** is the *currency* Behtar Ads uses. Coins are deducted per
+          unit of content created. The more Coins you deposit, the more
+          marketing content you can create for your products.
       - question: 'I met other error when using Behtar Ads, what can i do?'
         answer: >-
           Please capture the screenshot pictures of the error, then mail to
