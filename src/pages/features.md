@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: The Best Features of Your Behtar Ads App Service
+    title: The Best Features of Behtar Ads
     content: >-
       How to make short marketing video ads from Behtar Ads App?
 
