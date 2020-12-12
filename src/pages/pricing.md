@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: 'Try out Behtar Ads '
     pricing_plans:
       - title: Starter
         price: Free
