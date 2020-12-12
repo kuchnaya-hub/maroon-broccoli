@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: 'Try out Behtar Ads with our Starter plan and '
+    subtitle: Try out Behtar Ads with our Starter plan
     pricing_plans:
       - title: Starter
         price: Free
