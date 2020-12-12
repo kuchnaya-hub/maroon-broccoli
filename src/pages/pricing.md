@@ -89,7 +89,7 @@ sections:
           What is the phone resolution and file type of the videos I can create
           with Behtar Ads?
         answer: >-
-          All videos can be downlaoded in MP4 format. supported any phone
+          All videos can be downloded in MP4 format. Supported on any phone
           resolution.
         type: faq_item
       - question: Do you save debit / credit card details?
