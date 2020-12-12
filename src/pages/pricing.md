@@ -41,10 +41,16 @@ sections:
           image and short video format from many reseller apps.
       - question: Is Behtar Ads app Free and Safe?
         answer: >-
-          Yes. Behtar Ads provides a nice free edition till december 2020, and
-          it's 100% SAFE & Clean made in india product, Which means it does not
-          contain any from malware including but not limited to spyware,
-          viruses, adware, trojans, and backdoors, etc.
+          Yes!!! Behtar Ads is completely free to download and install. 
+
+
+          Infact we are giving a small amount of free coins / credits for a
+          limited period to new users.
+
+
+          Behtar Ads is 100% SAFE and is a **Made in India** product, Which
+          means it does not contain any from malware including but not limited
+          to spyware, viruses, adware, trojans, and backdoors, etc.
       - question: what is mean by coins option.
         answer: >-
           Coins means money, the more money you deposit, then you more will get
