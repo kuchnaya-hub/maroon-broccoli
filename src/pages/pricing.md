@@ -73,7 +73,7 @@ sections:
           just have to do is drop us an email.
         type: faq_item
       - question: Can I edit my video?
-        answer: No. Behtar Ads app there is no facility to edit video option.
+        answer: No. Behtar Ads app provides no facility for video editing.
         type: faq_item
       - question: Can I use the video after my subscription is over?
         answer: Yes. The videos you download are yours forever.
