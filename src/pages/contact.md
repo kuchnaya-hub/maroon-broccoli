@@ -5,6 +5,6 @@ sections:
     type: section_contact
     background: gray
     title: Contact
-    content: Call us on whatsapp +91 8691934511
+    content: Connect with us on *WhatsApp* **+91 8691934511**
 template: landing
 ---
