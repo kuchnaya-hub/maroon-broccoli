@@ -44,9 +44,6 @@ sections:
           Yes!!! Behtar Ads is completely free to download and install. Making
           content includes a small fee.
 
-          But fear not! We are giving some amount of free coins / credits for a
-          limited period to new users to test out the waters.
-
 
           Behtar Ads is 100% SAFE and is a **Made in India** product, Which
           means it does not contain any from malware including but not limited
