@@ -18,7 +18,7 @@ sections:
       will buy, click on **Share**, Select **Other** or **More** and select
       **Behtar Ads** .  
 
-      * Select a **Creative Format** and wait for a few seconds for your data to
+      * Select a **Creative Type** and wait for a few seconds for your data to
       be gathered.
 
       * Post on social media after the short video is ready.
