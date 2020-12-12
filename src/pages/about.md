@@ -5,12 +5,12 @@ image: images/feature1.png
 image_alt: ''
 template: page
 ---
-Behtarads is a Short Marketing Videos Ads App. Made in India.
+Behtar Ads is India's own **Short Marketing** Videos Ads App. 
+A hot new stage to show our flaming talent to the world out there
 
-Create a professional Advertising Posters and Attractive Marketing  Short Video ads
+Want to promote your *Reseller App Products* on across social media? 
 
-Behtarads is India’s own short marketing video ads app - a hot new stage to show our flaming talent to the world out there
+**Hiring**  *a graphics designer or video professional* **too expensive?** Fear not! We got you covered.
 
-Want to promote your Reseller App Products on across social media? 
+Using Behtar Ads app you can create professional and attractive advertisements in either image or video format in a matter of seconds 
 
-Hiring a graphics designer or short video maker is too expensive?.
