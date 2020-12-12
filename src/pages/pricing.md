@@ -69,8 +69,8 @@ sections:
         type: faq_item
       - question: What is policy of refund & charges applicable?
         answer: >-
-          you can withdraw anytime money from Behtar Ads app. you just have to
-          email us.
+          You can withdraw money / coins anytime from Behtar Ads app. All you
+          just have to do is drop us an email.
         type: faq_item
       - question: Can I edit my video?
         answer: No. Behtar Ads app there is no facility to edit video option.
