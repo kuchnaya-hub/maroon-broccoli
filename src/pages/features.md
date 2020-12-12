@@ -15,7 +15,7 @@ sections:
 
 
       * Once you identify the right product catlog which you think your customer
-      will buy, click on “Share on other button to behtarads App” . Wait
+      will buy, click on *Share* on other button and select *Behtar Ads* . Wait
       sometimes then you getting short video ads.
 
       * which video types do you like to try
