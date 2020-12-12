@@ -65,9 +65,7 @@ sections:
       - question: What video & image sizes can I create with Behtar Ads?
         answer: |-
           You can create content in following formats for now.
-          * Vertical videos
-          * Square videos
-          * Square images
+          * Vertical videos, Square videos, Square images
         type: faq_item
       - question: what is policy of return money & charges applicable?
         answer: >-
