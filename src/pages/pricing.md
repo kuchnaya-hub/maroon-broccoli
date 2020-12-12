@@ -96,7 +96,7 @@ sections:
         answer: >-
           No, absolutely not. Your debit/credit card details are not stored on
           our servers. The information goes directly from your computer to our
-          payment service provider
+          payment service provider.
         type: faq_item
 template: landing
 ---
