@@ -37,8 +37,8 @@ sections:
     faq_items:
       - question: What's Behtar Ads App?
         answer: >-
-          Yes. Behtar Ads App will help you for short video creation from any
-          reseller app.
+          Behtar Ads is a platform to help you create marketing content in both
+          image and short video format from many reseller apps.
       - question: Is Behtar Ads app Free and Safe?
         answer: >-
           Yes. Behtar Ads provides a nice free edition till december 2020, and
