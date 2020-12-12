@@ -8,24 +8,26 @@ sections:
     image_alt: App preview on a phone and tablet
     title: The Best Features of Behtar Ads
     content: >-
-      How to make short marketing video ads from Behtar Ads App?
+      ###### Having a hard time creating digital marketing content for your
+      products?
 
-      Once you install the app, sign up into the app, and follow these simple 3
-      steps,
+      ###### 
 
-
-      * Once you identify the right product catlog which you think your customer
-      will buy, click on **Share**, Select **Other** or **More** and select
-      **Behtar Ads** .  
-
-      * Select a **Creative Type** and wait for a few seconds for your data to
-      be gathered.
-
-      * Post on social media after the short video is ready.
+      ###### Behtar Ads has got the best features for you!
 
 
-      Short video marketing gives you good views & attracting customer becomes
-      super easy!
+      Using our android app allows you to -
+
+
+      1. Dynamically create Advertisements in a *matter of seconds* with your
+      content presenting all necessary information of your shared products. 
+
+      2. **No need** to fill up laborious forms or **to enter data manually**.
+
+      3. Select Ads *Creative Types* / Format for major social media platforms.
+
+      4. **Free User Credits / Coins** upon **first sign in** with a *nominal
+      cost per unit of content*!
     actions:
       - label: Free Trial
         url: /signup
