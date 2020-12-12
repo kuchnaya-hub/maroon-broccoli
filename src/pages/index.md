@@ -37,7 +37,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: ''
+    subtitle: Read what our customers have to say about our app
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
