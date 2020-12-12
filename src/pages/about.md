@@ -5,10 +5,10 @@ image: images/feature1.png
 image_alt: ''
 template: page
 ---
-Behtar Ads is India's own **Short Marketing** Videos Ads App. 
+Behtar Ads is India's own **Short Marketing** Video Ads App. 
 A hot new stage to show our flaming talent to the world out there.
 
-Want to promote your *Reseller App Products* on across social media? 
+Want to promote your *Reseller App Products* across social media? 
 
 **Hiring**  *a graphics designer or video professional* **too expensive?** Fear not! We got you covered.
 
