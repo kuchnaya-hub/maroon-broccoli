@@ -11,8 +11,6 @@ sections:
       ###### Having a hard time creating digital marketing content for your
       products?
 
-      ###### 
-
       ###### Behtar Ads has got the best features for you!
 
 
