@@ -6,8 +6,8 @@ sections:
     background: gray
     title: Pricing Plans
     subtitle: >-
-      Try out Behtar Ads with our Starter plan and buy Professional when you are
-      confident!
+      Try out Behtar Ads with our Starter plan and buy Professional plan when
+      you are confident!
     pricing_plans:
       - title: Starter
         price: Free
