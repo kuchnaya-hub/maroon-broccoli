@@ -9,9 +9,7 @@ sections:
     title: The Best Features of Behtar Ads
     content: >-
       ###### Having a hard time creating digital marketing content for your
-      products?
-
-      ###### Behtar Ads has got the best features for you!
+      products?###### Behtar Ads has got the best features for you!
 
 
       Using our android app allows you to -
