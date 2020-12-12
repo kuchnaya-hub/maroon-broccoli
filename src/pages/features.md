@@ -15,7 +15,8 @@ sections:
 
 
       * Once you identify the right product catlog which you think your customer
-      will buy, click on **Share** on other button and select **Behtar Ads** .  
+      will buy, click on **Share**, Select **Other** or **More** and select
+      **Behtar Ads** .  
 
       * Select a **Creative Format** and wait for a few seconds for your data to
       be gathered.
