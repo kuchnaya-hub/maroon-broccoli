@@ -33,14 +33,6 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Awesome Feature of Your Services
-        image_alt: App users welcoming a new member
-        content: >-
-          To choose the best short video types format for your needs. Make
-          visually stunning videos virtually anywhere
-        actions:
-          - label: Learn More
-            url: /features
       - title: Cool Feature of Your Services
         image: images/feature3.png
         image_alt: App user profile preview
