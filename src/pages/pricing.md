@@ -62,7 +62,7 @@ sections:
           marketing content you can create for your products.
       - question: 'I met an error while using Behtar Ads, what can i do?'
         answer: >
-          Please capture the screenshot of an error, then mail them to
+          Please capture the screenshot of an error and mail them to
           support@behtarads.com for help.
         type: faq_item
       - question: What is policy of refund & charges applicable?
