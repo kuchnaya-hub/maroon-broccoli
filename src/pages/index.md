@@ -29,17 +29,12 @@ sections:
           - label: Learn More
             url: /features
       - title: Feature 2
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ##
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          You can share product catalogs via Behtar Ads App to your contacts
+          using the one-click share option.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
