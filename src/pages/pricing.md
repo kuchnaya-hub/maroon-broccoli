@@ -61,10 +61,9 @@ sections:
           unit of content created. The more Coins you deposit, the more
           marketing content you can create for your products.
       - question: 'I met an error while using Behtar Ads, what can i do?'
-        answer: >-
-          Please capture the screenshot pictures of the error, then mail to
-          support@behtarads.com for help, and include the remains coins to
-          receive priority support.
+        answer: >
+          Please capture the screenshot pictures of the error, then mail them to
+          support@behtarads.com for help.
         type: faq_item
       - question: What is policy of refund & charges applicable?
         answer: >-
