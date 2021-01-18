@@ -50,7 +50,7 @@ sections:
           Behtar Ads is 100% SAFE and is a **Made in India** product, Which
           means it does not contain any from malware including but not limited
           to spyware, viruses, adware, trojans, and backdoors, etc.
-      - question: what is mean by coins option.
+      - question: What are Coins?
         answer: >-
           **Coins** is the *currency* Behtar Ads uses. Coins are deducted per
           unit of content created. The more Coins you deposit, the more
