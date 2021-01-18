@@ -62,7 +62,7 @@ sections:
           marketing content you can create for your products.
       - question: 'I met an error while using Behtar Ads, what can i do?'
         answer: >
-          Please capture the screenshot pictures of the error, then mail them to
+          Please capture the screenshot of an error, then mail them to
           support@behtarads.com for help.
         type: faq_item
       - question: What is policy of refund & charges applicable?
@@ -70,7 +70,7 @@ sections:
           You can withdraw money / coins anytime from Behtar Ads app. All you
           just have to do is drop us an email.
         type: faq_item
-      - question: Can I edit my video?
+      - question: Can I edit videos through the app?
         answer: No. Behtar Ads app provides no facility for video editing.
         type: faq_item
       - question: Can I use the video after my subscription is over?
