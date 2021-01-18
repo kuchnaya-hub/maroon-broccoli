@@ -31,7 +31,7 @@ sections:
       - title: Feature 2
         content: >
           Select the product, add it inside the app and it will automatically
-          create the video of the product
+          create the video of the product.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
