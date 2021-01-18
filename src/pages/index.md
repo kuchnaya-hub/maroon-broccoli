@@ -30,9 +30,6 @@ sections:
             url: /features
       - title: Feature 2
         content: >
-          ##
-
-
           You can share product catalogs via Behtar Ads App to your contacts
           using the one-click share option.
         image_alt: lorem-ipsum
