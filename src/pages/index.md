@@ -36,17 +36,10 @@ sections:
         actions: []
         type: feature_item
       - title: Feature 3
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          All you have to do is select the catalogs or products you want to
+          share and click on the ‘Other Share’ button option.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
