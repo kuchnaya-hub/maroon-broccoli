@@ -39,7 +39,7 @@ sections:
         url: 'https://bit.ly/3pYQcXz'
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     background: gray
     features: []
     type: section_features
