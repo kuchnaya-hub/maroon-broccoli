@@ -55,16 +55,16 @@ sections:
           **Coins** is the *currency* Behtar Ads uses. Coins are deducted per
           unit of content created. The more Coins you deposit, the more
           marketing content you can create for your products.
+      - question: What video & image sizes can I create with Behtar Ads?
+        answer: |-
+          You can create content in following formats for now.
+          * Vertical videos, Square videos, Square images
+        type: faq_item
       - question: 'I met other error when using Behtar Ads, what can i do?'
         answer: >-
           Please capture the screenshot pictures of the error, then mail to
           support@behtarads.com for help, and include the remains coins to
           receive priority support.
-        type: faq_item
-      - question: What video & image sizes can I create with Behtar Ads?
-        answer: |-
-          You can create content in following formats for now.
-          * Vertical videos, Square videos, Square images
         type: faq_item
       - question: What is policy of refund & charges applicable?
         answer: >-
