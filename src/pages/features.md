@@ -26,7 +26,7 @@ sections:
       cost per unit of content*!
     actions:
       - label: Free Trial
-        url: ''
+        url: 'https://bit.ly/3pYQcXz'
         primary: true
       - label: View Demo
         url: '#'
