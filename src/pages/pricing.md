@@ -42,14 +42,14 @@ sections:
           Behtar Ads is a platform to help you create marketing content in both
           image and short video format from many reseller apps.
       - question: Is Behtar Ads app Free and Safe?
-        answer: >-
+        answer: >
           Yes!!! Behtar Ads is completely free to download and install. Making
           content includes a small fee.
 
 
-          Behtar Ads is 100% SAFE and is a **Made in India** product, Which
-          means it does not contain any from malware including but not limited
-          to spyware, viruses, adware, trojans, and backdoors, etc.
+          Behtar Ads is 100% SAFE and is a **Made in India** product which means
+          it does not contain any form of malware including but not limited to
+          spyware, viruses, adware, trojans, and backdoors, etc.
       - question: What video & image sizes can I create with Behtar Ads?
         answer: |-
           You can create content in following formats for now.
