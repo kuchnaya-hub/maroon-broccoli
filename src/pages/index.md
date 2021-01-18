@@ -35,6 +35,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/smiling-mahogany.png
       - title: Feature 3
         content: >
           After the creatives are ready all you have to do is just click on
