@@ -11,11 +11,11 @@ sections:
     pricing_plans:
       - title: Starter
         price: Free
-        details: |-
-          * 500 Free credits
-          * 25 Credits per Video
-          * Support Image Ads
-          * Supports Meesho & Shop101
+        details: |
+          *   500 Free credits
+          *   25 Credits per Video
+          *   Support Image Ads
+          *   Supports Meesho Shop101 & GlowRoad
         actions:
           - label: Download App
             url: 'https://bit.ly/3pYQcXz'
