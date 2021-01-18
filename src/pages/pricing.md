@@ -50,16 +50,16 @@ sections:
           Behtar Ads is 100% SAFE and is a **Made in India** product, Which
           means it does not contain any from malware including but not limited
           to spyware, viruses, adware, trojans, and backdoors, etc.
-      - question: What are Coins?
-        answer: >-
-          **Coins** is the *currency* Behtar Ads uses. Coins are deducted per
-          unit of content created. The more Coins you deposit, the more
-          marketing content you can create for your products.
       - question: What video & image sizes can I create with Behtar Ads?
         answer: |-
           You can create content in following formats for now.
           * Vertical videos, Square videos, Square images
         type: faq_item
+      - question: What are Coins?
+        answer: >-
+          **Coins** is the *currency* Behtar Ads uses. Coins are deducted per
+          unit of content created. The more Coins you deposit, the more
+          marketing content you can create for your products.
       - question: 'I met other error when using Behtar Ads, what can i do?'
         answer: >-
           Please capture the screenshot pictures of the error, then mail to
