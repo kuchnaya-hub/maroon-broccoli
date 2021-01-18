@@ -28,7 +28,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Make creatives instantly
+      - title: Make Creatives Instantly
         content: >
           Select the product, add it inside the app and it will automatically
           create the creatives of the product.
