@@ -60,7 +60,7 @@ sections:
           **Coins** is the *currency* Behtar Ads uses. Coins are deducted per
           unit of content created. The more Coins you deposit, the more
           marketing content you can create for your products.
-      - question: 'I met other error when using Behtar Ads, what can i do?'
+      - question: 'I met an error while using Behtar Ads, what can i do?'
         answer: >-
           Please capture the screenshot pictures of the error, then mail to
           support@behtarads.com for help, and include the remains coins to
