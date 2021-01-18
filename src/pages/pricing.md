@@ -84,8 +84,8 @@ sections:
           4.  The rest of the remaining Reseller app will connect soon.
         type: faq_item
       - question: >-
-          What is the phone resolution and file type of the videos I can create
-          with Behtar Ads?
+          What is the phone resolution and file type of the creatives I can
+          create with Behtar Ads?
         answer: >-
           All videos can be downloded in MP4 format. Supported on any phone
           resolution.
