@@ -29,7 +29,7 @@ sections:
         highlight: true
         actions:
           - label: Download App
-            url: /signup
+            url: 'https://bit.ly/3pYQcXz'
             primary: true
   - section_id: faq
     type: section_faq
