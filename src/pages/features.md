@@ -33,7 +33,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: To Download the app click on box!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: ''
     actions:
       - label: Download App
         url: '#'
