@@ -36,10 +36,9 @@ sections:
         actions: []
         type: feature_item
       - title: Feature 3
-        content: >+
-          All you have to do is select the catalogs or products you want to
-          share and click on the ‘Other Share’ button option.
-
+        content: >
+          After the creatives are ready all you have to do is just click on
+          share and share the creatives anywhere you want.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
