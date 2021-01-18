@@ -30,7 +30,7 @@ sections:
             url: /features
       - title: Feature 2
         content: >
-          Select the product and add it inside the app and it will automatically
+          Select the product, add it inside the app and it will automatically
           create the video of the product
         image_alt: lorem-ipsum
         actions: []
