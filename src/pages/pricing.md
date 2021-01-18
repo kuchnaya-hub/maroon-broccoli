@@ -754,9 +754,10 @@ sections:
           it does not contain any form of malware including but not limited to
           spyware, viruses, adware, trojans, and backdoors, etc.
       - question: What video & image sizes can I create with Behtar Ads?
-        answer: |-
-          You can create content in following formats for now.
-          * Vertical videos, Square videos, Square images
+        answer: |
+          You can create content in the following formats.
+
+          *   Vertical videos, Vertical images, Square videos and Square images
         type: faq_item
       - question: What are Coins?
         answer: >-
