@@ -32,7 +32,7 @@ sections:
         url: 'https://youtu.be/-TuQF23xRu0'
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call to Action Block!
+    title: To Download the app click on box!
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Download App
