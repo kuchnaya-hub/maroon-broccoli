@@ -18,7 +18,7 @@ sections:
           * Supports Meesho & Shop101
         actions:
           - label: Download App
-            url: /signup
+            url: 'https://bit.ly/3pYQcXz'
       - title: Professional
         price: ₹100
         details: |-
