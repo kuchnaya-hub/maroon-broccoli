@@ -19,7 +19,7 @@ sections:
     title: Features
     subtitle: The Best Feature of our Services
     features:
-      - title: Share and reate
+      - title: Share and Create
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
