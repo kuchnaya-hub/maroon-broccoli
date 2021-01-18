@@ -29,7 +29,7 @@ sections:
         url: 'https://bit.ly/3pYQcXz'
         primary: true
       - label: View Demo
-        url: ''
+        url: 'https://youtu.be/-TuQF23xRu0'
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!
