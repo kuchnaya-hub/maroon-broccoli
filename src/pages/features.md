@@ -37,12 +37,6 @@ sections:
     actions:
       - label: Download App
         url: 'https://bit.ly/3pYQcXz'
-  - title: ''
-    section_id: lorem-ipsum
-    subtitle: ''
-    background: gray
-    features: []
-    type: section_features
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
