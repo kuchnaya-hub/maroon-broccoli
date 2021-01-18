@@ -21,11 +21,11 @@ sections:
             url: 'https://bit.ly/3pYQcXz'
       - title: Professional
         price: ₹100
-        details: |-
-          * 750 credits
-          * 25 Credits per Video
-          * Support Image Ads
-          * Supports Meesho & Shop101
+        details: |
+          *   750 credits
+          *   25 Credits per Video
+          *   Support Image Ads
+          *   Supports Meesho Shop101 & GlowRoad
         highlight: true
         actions:
           - label: Download App
