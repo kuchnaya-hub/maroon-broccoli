@@ -35,7 +35,7 @@ sections:
     title: This Is Call to Action Block!
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Download App
         url: '#'
   - title: lorem-ipsum
     section_id: lorem-ipsum
