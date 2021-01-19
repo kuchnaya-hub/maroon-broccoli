@@ -27,7 +27,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-        image: images/sharetocreate-3.png
+        image: images/beige-bee.png
       - title: Make Creatives Instantly
         content: >
           Select the product, add it inside the app and it will automatically
