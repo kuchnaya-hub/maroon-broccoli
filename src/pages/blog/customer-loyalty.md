@@ -2,7 +2,7 @@
 title: |-
   Can Daily Marketing Help
   You to Increase Your Sales in Reselling Business?
-subtitle: A story about customer loyalty
+subtitle: ''
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
   Updating your website by new content helps the audience to know your product
