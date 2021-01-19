@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/header_tech.png
     image_alt: App preview
     title: Marketing App for Resellers.
     content: >
@@ -13,6 +12,7 @@ sections:
       - label: Download App
         url: 'https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads'
         primary: true
+    image: images/caring-olive.png
   - section_id: features
     type: section_features
     background: gray
