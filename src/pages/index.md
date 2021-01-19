@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/best-sage.png
+    image: images/diligent-sycamore.png
     image_alt: App preview
     title: Marketing App for Resellers.
     content: >
