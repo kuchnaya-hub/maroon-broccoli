@@ -27,6 +27,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
+        image: images/maroon-giraffe.png
       - title: Make Creatives Instantly
         content: >
           Select the product, add it inside the app and it will automatically
