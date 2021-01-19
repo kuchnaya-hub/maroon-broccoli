@@ -1,5 +1,7 @@
 ---
-title: 5 Reasons Why Online Reselling Is Great Opportunity to Start A Business
+title: |-
+  Powerful new features that
+  make short video creation easy
 subtitle: Short Video Ideas for Your Reselling Business
 excerpt: ''
 date: '2020-12-11'
