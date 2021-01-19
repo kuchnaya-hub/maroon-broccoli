@@ -7,7 +7,7 @@ excerpt: >-
 date: '2020-12-11'
 thumb_image: images/header-blog.jpg
 template: post
-image: images/2.jpg
+image: images/polite-spruce.jpg
 ---
 You can use our Behtar Ads app to create short videos for all reselling sorts of things. We’ll start with new unique ideas for using short video to help your reselling business shine & grow in 2021.
 
