@@ -2,7 +2,7 @@
 title: |-
   5 Reasons Why Online Reselling Is Great Opportunity to Start A
   Business
-subtitle: lorem-ipsum
+subtitle: ''
 date: '2020-12-05'
 excerpt: Make your own business through reselling.
 image_alt: lorem-ipsum
