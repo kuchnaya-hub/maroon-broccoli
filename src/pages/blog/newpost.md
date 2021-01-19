@@ -4,7 +4,7 @@ title: |-
   Business
 subtitle: lorem-ipsum
 date: '2020-12-05'
-excerpt: lorem-ipsum
+excerpt: Make your own business through reselling.
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 meta_title: lorem-ipsum
