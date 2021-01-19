@@ -36,7 +36,7 @@ sections:
         actions: []
         type: feature_item
         image: images/smiling-mahogany.png
-      - title: Share Everywhere
+      - title: Share Anywhere
         content: >
           After the creatives are ready all you have to do is just click on
           share and share the creatives anywhere you want.
