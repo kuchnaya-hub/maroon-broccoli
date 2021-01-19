@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/header.png
     image_alt: App preview
     title: Marketing App for Resellers.
     content: >
@@ -36,7 +36,7 @@ sections:
         actions: []
         type: feature_item
         image: images/smiling-mahogany.png
-      - title: Share Everywhere
+      - title: Share Anywhere
         content: >
           After the creatives are ready all you have to do is just click on
           share and share the creatives anywhere you want.
