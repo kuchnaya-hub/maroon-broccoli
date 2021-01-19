@@ -3,7 +3,7 @@ title: |-
   Powerful new features that
   make short video creation easy
 subtitle: Short Video Ideas for Your Reselling Business
-excerpt: ''
+excerpt: Short Video Ideas for Your Reselling Business
 date: '2020-12-11'
 thumb_image: images/header-blog.jpg
 template: post
