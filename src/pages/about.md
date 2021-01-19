@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: ''
-image: images/feature1.png
+image: images/good-sunflower.jpg
 image_alt: ''
 template: page
 ---
