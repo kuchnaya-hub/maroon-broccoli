@@ -27,6 +27,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
+        image: images/thoughtful-europa.png
       - title: Make Creatives Instantly
         content: >
           Select the product, add it inside the app and it will automatically
