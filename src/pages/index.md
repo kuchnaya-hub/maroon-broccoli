@@ -12,7 +12,6 @@ sections:
       - label: Download App
         url: 'https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads'
         primary: true
-    image: images/best-apple.png
   - section_id: features
     type: section_features
     background: gray
