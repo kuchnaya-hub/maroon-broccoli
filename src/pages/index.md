@@ -20,7 +20,6 @@ sections:
     subtitle: The Best Feature of our Services
     features:
       - title: Just Share to Create
-        image: images/sharetocreate.png
         image_alt: App preview on a phone and tablet
         content: >
           Browsing through your product catalogs to select products that you
