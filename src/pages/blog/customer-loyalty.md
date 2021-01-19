@@ -5,8 +5,8 @@ title: |-
 subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+  updating your website by new content helps the audience to know your product
+  better
 date: '2019-04-23'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
