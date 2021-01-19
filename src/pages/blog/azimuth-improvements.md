@@ -5,7 +5,7 @@ excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
 date: '2020-12-11'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/header-blog.jpg
 template: post
 image: images/2.jpg
 ---
