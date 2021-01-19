@@ -35,7 +35,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/smiling-mahogany.png
+        image: images/selectProduct.png
       - title: Share Anywhere
         content: >
           After the creatives are ready all you have to do is just click on
