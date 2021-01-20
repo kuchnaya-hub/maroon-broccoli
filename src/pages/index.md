@@ -51,7 +51,6 @@ sections:
     subtitle: Read what our customers have to say about our app.
     reviews:
       - author: John Doe
-        avatar: images/review1.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
