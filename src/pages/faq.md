@@ -12,6 +12,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/blue-primrose.png
   - section_id: faq
     type: section_faq
     background: gray
