@@ -7,7 +7,7 @@ no_index: false
 sections:
   - section_id: faq
     type: section_faq
-    background: white
+    background: gray
     title: Frequently Asked Questions
     subtitle: ''
     faq_items:
