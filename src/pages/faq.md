@@ -5,6 +5,14 @@ meta_description: 'pricing, Behtar Ads'
 canonical_url: lorem-ipsum
 no_index: false
 sections:
+  - title: FAQ
+    section_id: FAQ
+    content: |
+      ## Ask us Anything
+    image_alt: lorem-ipsum
+    actions: []
+    type: section_hero
+    image: images/nervous-eucalyptus.png
   - section_id: faq
     type: section_faq
     background: gray
@@ -774,13 +782,5 @@ sections:
           our servers. The information goes directly from your computer to our
           payment service provider.
         type: faq_item
-  - title: FAQ
-    section_id: FAQ
-    content: |
-      ## Ask us Anything
-    image_alt: lorem-ipsum
-    actions: []
-    type: section_hero
-    image: images/nervous-eucalyptus.png
 template: landing
 ---
