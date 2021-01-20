@@ -8,7 +8,7 @@ excerpt: >-
   Updating your website by new content helps the audience to know your product
   or service better.
 date: '2019-04-23'
-thumb_image: images/3_thumb.jpg
+thumb_image: images/super-hedgehog.jpeg
 thumb_image_alt: A group of people working in a cafe
 image: >-
   images/Can Daily Marketing Help You to Increase Your Sales in Reselling
