@@ -776,17 +776,8 @@ sections:
         type: faq_item
   - title: FAQ
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      ## Ask us Anything
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
