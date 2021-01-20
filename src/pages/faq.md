@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: FAQ
 meta_title: Pricing
 meta_description: 'pricing, Behtar Ads'
 canonical_url: lorem-ipsum
