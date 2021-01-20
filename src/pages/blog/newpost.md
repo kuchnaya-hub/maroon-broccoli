@@ -26,11 +26,11 @@ Reselling, and here are the reasons.
 
 In reselling, you don’t need to buy things in bulk. You can simply order things as per the requirements of your customers. The motto “Buy less, sell more” will help you in managing your budget and earning profits. Online reselling further simplifies the task by lowering shipping fees. Also, apps like Meesho, GlowRoad, and shop101 provide free shipping of products to customers.
 
-**A huge number of customers** 
+**A huge number of customers**
 
 Covid-19 has resulted in more consumers shopping online. These “sofa surfing” customers are looking for a variety of products that are accessible as well as affordable. Online reselling caters to this huge number of customers and connects them to a diverse range of products.
 
-**No need for a specific niche **
+**No need for a specific niche**
 
 Deciding on a niche to start a business can be a very tough decision as it requires a lot of market research, analysis, and expertise. If you become a reseller you will be able to sell various products. As the whole business of reselling depends on the demand of customers, you can always
 have a supply of an extensive number of products and grow your business.
@@ -39,7 +39,7 @@ have a supply of an extensive number of products and grow your business.
 
 The perk of an online reselling business is you get to decide the price of the product you are selling. If the cost of goods is low, you can decide the price to make your reselling business profitable. You can set your own margins. Don’t forget to look at industry standards for product pricing.
 
-**Easy marketing **
+**Easy marketing**
 
 Traditional door to door marketing is no longer the effective way to sell products. Reach your customers digitally by short ads, product reviews, and customer reviews. It’s easier now than ever before to market your products on social media to increase sales. Connecting customers through social media will also help your business to reach more people in less time.
 
