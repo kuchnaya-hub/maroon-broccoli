@@ -781,6 +781,6 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-    image: images/remarkable-spider.png
+    image: images/faq-200.png
 template: landing
 ---
