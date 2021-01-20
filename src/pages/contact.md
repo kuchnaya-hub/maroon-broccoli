@@ -6,7 +6,7 @@ sections:
     background: gray
     title: Contact
     content: Connect with us on *WhatsApp* **+91 8691934511**
-  - title: lorem-ipsum
+  - title: Contact
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
