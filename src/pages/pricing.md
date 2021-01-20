@@ -808,6 +808,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/interesting-chestnut.png
 template: landing
 meta_title: Pricing
 meta_description: 'pricing, Behtar Ads'
