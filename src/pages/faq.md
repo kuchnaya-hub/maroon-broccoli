@@ -790,5 +790,6 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/faq.png
 template: landing
 ---
