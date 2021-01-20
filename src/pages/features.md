@@ -47,5 +47,6 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/blank.png
 template: landing
 ---
