@@ -801,4 +801,5 @@ sections:
           payment service provider.
         type: faq_item
 template: landing
+meta_title: Pricing
 ---
