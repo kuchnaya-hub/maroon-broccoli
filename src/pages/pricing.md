@@ -1,6 +1,15 @@
 ---
 title: Pricing
 sections:
+  - title: Pricing
+    section_id: lorem-ipsum
+    content: |+
+      Behtar Ads is free. Upgrade for more.
+
+    image_alt: lorem-ipsum
+    actions: []
+    type: section_hero
+    image: images/interesting-chestnut.png
   - section_id: pricing
     type: section_pricing
     background: gray
@@ -800,15 +809,6 @@ sections:
           our servers. The information goes directly from your computer to our
           payment service provider.
         type: faq_item
-  - title: Pricing
-    section_id: lorem-ipsum
-    content: |+
-      Behtar Ads is free. Upgrade for more.
-
-    image_alt: lorem-ipsum
-    actions: []
-    type: section_hero
-    image: images/interesting-chestnut.png
 template: landing
 meta_title: Pricing
 meta_description: 'pricing, Behtar Ads'
