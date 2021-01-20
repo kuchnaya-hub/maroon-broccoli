@@ -800,7 +800,7 @@ sections:
           our servers. The information goes directly from your computer to our
           payment service provider.
         type: faq_item
-  - title: lorem-ipsum
+  - title: Pricing
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
