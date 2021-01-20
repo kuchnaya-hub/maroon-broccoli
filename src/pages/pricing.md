@@ -802,5 +802,5 @@ sections:
         type: faq_item
 template: landing
 meta_title: Pricing
-meta_description: 'pricing, Behtar A'
+meta_description: 'pricing, Behtar Ads'
 ---
