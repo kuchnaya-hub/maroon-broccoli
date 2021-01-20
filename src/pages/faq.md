@@ -775,7 +775,7 @@ sections:
           payment service provider.
         type: faq_item
   - title: FAQ
-    section_id: lorem-ipsum
+    section_id: FAQ
     content: |
       ## Ask us Anything
     image_alt: lorem-ipsum
