@@ -12,7 +12,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-    image: images/nervous-eucalyptus.png
+    image: images/faq-header.png
   - section_id: faq
     type: section_faq
     background: gray
