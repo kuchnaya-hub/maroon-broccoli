@@ -37,7 +37,7 @@ sections:
     actions:
       - label: Download App
         url: 'https://bit.ly/3pYQcXz'
-  - title: lorem-ipsum
+  - title: Features
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
