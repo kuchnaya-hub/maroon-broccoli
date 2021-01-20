@@ -43,7 +43,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/shareAnywhere.png
+        image: images/shareanywhere_updated.png
   - section_id: reviews
     type: section_reviews
     background: white
