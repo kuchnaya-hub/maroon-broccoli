@@ -781,6 +781,6 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-    image: images/clever-aspen.png
+    image: images/nervous-eucalyptus.png
 template: landing
 ---
