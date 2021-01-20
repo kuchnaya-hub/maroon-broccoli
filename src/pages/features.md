@@ -1,6 +1,17 @@
 ---
 title: Features
 sections:
+  - title: Features
+    section_id: lorem-ipsum
+    content: >+
+      Having a hard time creating digital marketing content for your products?
+      *Behtar Ads* has got the best features for you!
+
+
+    image_alt: lorem-ipsum
+    actions: []
+    type: section_hero
+    image: images/blank.png
   - section_id: features
     type: section_content
     background: gray
@@ -37,16 +48,5 @@ sections:
     actions:
       - label: Download App
         url: 'https://bit.ly/3pYQcXz'
-  - title: Features
-    section_id: lorem-ipsum
-    content: >+
-      Having a hard time creating digital marketing content for your products?
-      *Behtar Ads* has got the best features for you!
-
-
-    image_alt: lorem-ipsum
-    actions: []
-    type: section_hero
-    image: images/blank.png
 template: landing
 ---
