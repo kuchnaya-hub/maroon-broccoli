@@ -56,11 +56,11 @@ sections:
           ads for my meesho products in short period of time. it also makes it
           easy for me to advertise my products through the share feature. Really
           useful App for me.
-      - author: Jane Roe
+      - author: Panchmani Mistry
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          The app is easy to use and also it helps me to create my marketing
+          videos because of which my product advertisement has got much better
+          response from the people.
   - section_id: recent-posts
     type: section_posts
     background: gray
