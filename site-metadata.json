@@ -18,7 +18,7 @@
             },
             {
                 "label": "FAQ",
-                "url": "lorem-ipsum",
+                "url": "faq",
                 "primary": false,
                 "new_window": false,
                 "no_follow": false,
