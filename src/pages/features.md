@@ -39,17 +39,11 @@ sections:
         url: 'https://bit.ly/3pYQcXz'
   - title: Features
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      Having a hard time creating digital marketing content for your products?
+      *Behtar Ads* has got the best features for you!
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
