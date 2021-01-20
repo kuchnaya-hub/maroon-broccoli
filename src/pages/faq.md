@@ -781,6 +781,6 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-    image: images/faq-200.png
+    image: images/clever-aspen.png
 template: landing
 ---
