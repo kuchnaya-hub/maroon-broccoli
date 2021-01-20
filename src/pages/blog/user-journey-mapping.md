@@ -10,7 +10,7 @@ excerpt: >-
   delivering any message. People usually respond more to visual and audio format
 author: src/data/authors/jane-doe.yaml
 date: '2019-03-27'
-thumb_image: images/10_thumb.jpg
+thumb_image: images/magenta-sage.jpg
 thumb_image_alt: Business people in a meeting
 image: images/video-marketing.jpg
 image_alt: Business people in a meeting
