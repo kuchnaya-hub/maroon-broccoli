@@ -3,9 +3,8 @@ title: Pricing
 sections:
   - title: Pricing
     section_id: lorem-ipsum
-    content: |+
-      Behtar Ads is free. Upgrade for more.
-
+    content: |
+      Free to Start
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
