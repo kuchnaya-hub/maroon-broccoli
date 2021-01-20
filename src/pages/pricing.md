@@ -9,6 +9,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/violet-cabbage.png
   - section_id: pricing
     type: section_pricing
     background: gray
