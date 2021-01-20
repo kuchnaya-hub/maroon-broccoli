@@ -12,6 +12,9 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 template: post
+image: >-
+  images/5 Reasons Why Online Reselling Is Great Opportunity to Start A
+  Business.jpeg
 ---
 Are you tired of binge-watching videos on
 “How to start a business?” but confused about “Where to get started?” Well,
