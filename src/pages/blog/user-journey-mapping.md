@@ -18,7 +18,7 @@ template: post
 ---
 Various brands need a video advertising technique this thought isn't new. What has changed is the type by which video has become on each stage and channel? As the video plays a very important role, now in advertising people tend to spend more money on making video content as it does attract more target audience.
 
-Crowds need to see more video content, and different advertisers and distributers are making more video posts accordingly. In the 2017 State of Inbound report, almost 50% of advertisers released that they had to put more content into making YouTube and Facebook video Ads in the coming year. Furthermore, as per Cisco, video substance will represent 69% of all shopper web traffic before the current year's over. 
+Crowds need to see more video content, and different advertisers and distributers are making more video posts accordingly. In the 2017 State of Inbound report, almost 50% of advertisers released that they had to put more content into making YouTube and Facebook video Ads in the coming year. Furthermore, as per Cisco, video substance will represent 69% of all shopper web traffic before the current year's over.
 
 As video marketing plays a vital role in advertising apart from advertising through newspaper ads and radio announcements when it comes to checking how many people have actually viewed the marketing campaign video marketing takes the lead. More than 83 percent of the businesses say that video marketing proved to a good reach than most other marketing strategies.   As per different sources, it has been discovered that 100 million hours of videos are viewed on Facebook day by day, 500 million individuals watch the Facebook video every day, Snapchat users watch 10 billion recordings day by day, 82% of Twitter clients like to watch video content on Twitter. As indicated by eMarketer, the greater part of the clients like to think about an item through a video than reading the description review or manuals.
 
@@ -27,3 +27,5 @@ As a vast number of audiences use the desktop to browse the content in addition,
 Although the cost of producing videos is much higher, this is why many people take a step back to create video ad campaigns. However, if you want to impress potential and existing customers, there is nothing better than a "video marketing" campaign.
 
 
+
+Infographic vector created by upklyak - www.freepik.com
