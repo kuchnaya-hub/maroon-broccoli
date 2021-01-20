@@ -50,7 +50,7 @@ sections:
     title: Testimonials
     subtitle: Read what our customers have to say about our app.
     reviews:
-      - author: Sonali Bhide - Meesho Reseller App User
+      - author: Sonali Bhide
         content: >-
           I liked the app as it help me to create short video's ads & image post
           ads for my meesho products in short period of time. it also makes it
