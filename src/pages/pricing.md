@@ -4,7 +4,7 @@ sections:
   - title: Pricing
     section_id: lorem-ipsum
     content: |
-      ## Free to Start
+      ### Free to Start
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
