@@ -11,6 +11,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/futuristic-kale.png
   - section_id: features
     type: section_content
     background: gray
