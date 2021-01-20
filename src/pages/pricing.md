@@ -9,7 +9,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-    image: images/interesting-chestnut.png
+    image: images/pricing-header.png
   - section_id: pricing
     type: section_pricing
     background: gray
