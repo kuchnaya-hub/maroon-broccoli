@@ -56,7 +56,7 @@ sections:
           ads for my meesho products in short period of time. it also makes it
           easy for me to advertise my products through the share feature. Really
           useful App for me.
-      - author: Panchmani Mistry
+      - author: "Panchmani Mistry -\_Shop101 Reseller App use."
         content: >-
           The app is easy to use and also it helps me to create my marketing
           videos because of which my product advertisement has got much better
