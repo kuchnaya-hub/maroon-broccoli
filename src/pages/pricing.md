@@ -800,6 +800,22 @@ sections:
           our servers. The information goes directly from your computer to our
           payment service provider.
         type: faq_item
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    actions: []
+    type: section_hero
 template: landing
 meta_title: Pricing
 meta_description: 'pricing, Behtar Ads'
