@@ -7,7 +7,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-    image: images/blank.png
+    image: images/contact-header.png
   - section_id: contact
     type: section_contact
     background: gray
