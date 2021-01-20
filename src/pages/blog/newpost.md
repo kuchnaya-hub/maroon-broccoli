@@ -14,6 +14,7 @@ no_index: false
 template: post
 image: images/best-amaranth.jpg
 thumb_image: images/shopping.jpg
+author: src/data/authors/person-7gysldjz2.json
 ---
 Are you tired of binge-watching videos on
 “How to start a business?” but confused about “Where to get started?” Well,
