@@ -1,11 +1,6 @@
 ---
 title: Contact
 sections:
-  - section_id: contact
-    type: section_contact
-    background: gray
-    title: Contact
-    content: Connect with us on *WhatsApp* **+91 8691934511**
   - title: Contact
     section_id: lorem-ipsum
     content: ''
@@ -13,5 +8,10 @@ sections:
     actions: []
     type: section_hero
     image: images/blank.png
+  - section_id: contact
+    type: section_contact
+    background: gray
+    title: Contact
+    content: Connect with us on *WhatsApp* **+91 8691934511**
 template: landing
 ---
