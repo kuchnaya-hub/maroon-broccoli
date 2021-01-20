@@ -50,10 +50,12 @@ sections:
     title: Testimonials
     subtitle: Read what our customers have to say about our app.
     reviews:
-      - author: John Doe
+      - author: Sonali Bhide
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          I liked the app as it help me to create short video's ads & image post
+          ads for my meesho products in short period of time. it also makes it
+          easy for me to advertise my products through the share feature. Really
+          useful App for me.
       - author: Jane Roe
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
