@@ -17,7 +17,6 @@ sections:
     image_alt: About
     actions: []
     type: section_hero
-    image: images/blank.png
   - title: ''
     section_id: About
     content: >
@@ -38,5 +37,6 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/abt_vector.png
 template: landing
 ---
