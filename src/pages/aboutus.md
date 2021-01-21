@@ -38,6 +38,6 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/abt_vector.png
+    image: images/abt-header-ad.png
 template: landing
 ---
