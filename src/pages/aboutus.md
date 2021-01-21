@@ -12,7 +12,7 @@ canonical_url: lorem-ipsum
 no_index: false
 sections:
   - title: About Us
-    section_id: lorem-ipsum
+    section_id: About
     content: ''
     image_alt: About
     actions: []
