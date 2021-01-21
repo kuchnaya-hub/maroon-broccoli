@@ -1,7 +1,7 @@
 ---
 title: Contact
 sections:
-  - title: Contact
+  - title: Contact Us
     section_id: lorem-ipsum
     content: ''
     image_alt: lorem-ipsum
@@ -11,7 +11,7 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Contact
+    title: Contact Us
     content: |
       Connect with us on *WhatsApp* **+918369402278**
 template: landing
