@@ -92,16 +92,7 @@
         "subscribe_title": "Subscribe",
         "subscribe_content": "Stay up to date with our latest developments.",
         "content": "&copy; Behtar Ads. All rights reserved.",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "lorem-ipsum",
-                "primary": false,
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "title": "About Us",
     "domain": "About Us"
