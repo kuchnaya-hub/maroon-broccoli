@@ -22,11 +22,5 @@ sections:
     background: gray
     features: []
     type: section_features
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: white
-    faq_items: []
-    type: section_faq
 template: landing
 ---
