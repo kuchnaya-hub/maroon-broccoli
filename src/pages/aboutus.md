@@ -14,17 +14,20 @@ sections:
     image: images/blank.png
   - title: ''
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Behtar Ads is India's own **Short Marketing** Video Ads App which can help
+      you to make short creatives of your reselling products.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Want to promote your \*Reseller App Products \*across social media?
 
 
-      - Lorem ipsum
+      **Hiring** *a graphics designer or video professional* \*\*too expensive?
+      \*\*Fear not! We got you covered.
 
-      - dolor sit amet
+
+      Using Behtar Ads app you can create professional and attractive
+      advertisements in either image or video format in a matter of seconds!
     image_alt: lorem-ipsum
     background: gray
     actions: []
