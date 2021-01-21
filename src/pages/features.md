@@ -50,4 +50,5 @@ sections:
         url: 'https://bit.ly/3pYQcXz'
         new_window: true
 template: landing
+meta_title: Features
 ---
