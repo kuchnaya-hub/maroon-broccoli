@@ -8,7 +8,7 @@ sections:
   - title: About Us
     section_id: lorem-ipsum
     content: ''
-    image_alt: behtar Ads
+    image_alt: Behtar Ads
     actions: []
     type: section_hero
     image: images/about-header.png
