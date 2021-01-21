@@ -2,7 +2,7 @@
 title: Features
 sections:
   - title: Features
-    section_id: lorem-ipsum
+    section_id: AEf
     content: >+
       Having a hard time creating digital marketing content for your products?
       *Behtar Ads* has got the best features for you!
