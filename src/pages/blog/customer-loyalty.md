@@ -7,7 +7,7 @@ author: src/data/authors/jane-doe.yaml
 excerpt: >-
   Updating your website by new content helps the audience to know your product
   or service better.
-date: '2021-01-23'
+date: '2021-01-19'
 thumb_image: images/super-hedgehog.jpeg
 thumb_image_alt: A group of people working in a cafe
 image: >-
