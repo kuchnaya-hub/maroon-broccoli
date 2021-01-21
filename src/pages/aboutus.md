@@ -7,8 +7,7 @@ no_index: false
 sections:
   - title: About Us
     section_id: lorem-ipsum
-    content: |
-      *
+    content: ''
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
