@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - title: Pricing
-    section_id: lorem-ipsum
+    section_id: P
     content: |
       ### Free to Start
     image_alt: Pricing
