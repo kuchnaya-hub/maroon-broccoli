@@ -17,6 +17,7 @@ sections:
     image_alt: About
     actions: []
     type: section_hero
+    image: images/violet-lime.png
   - title: ''
     section_id: About
     content: >
