@@ -43,7 +43,7 @@ sections:
         url: 'https://youtu.be/-TuQF23xRu0'
   - section_id: call-to-action
     type: section_cta
-    title: To Download the app click on box!
+    title: Get the new App Today
     subtitle: ''
     actions:
       - label: Download App
