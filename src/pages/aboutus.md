@@ -14,7 +14,7 @@ sections:
   - title: About Us
     section_id: lorem-ipsum
     content: ''
-    image_alt: tuoba
+    image_alt: About
     actions: []
     type: section_hero
     image: images/about-header.png
