@@ -8,7 +8,7 @@ sections:
   - title: About Us
     section_id: lorem-ipsum
     content: ''
-    image_alt: lorem-ipsum
+    image_alt: Behtar Ads
     actions: []
     type: section_hero
     image: images/about-header.png
@@ -28,7 +28,7 @@ sections:
 
       Using Behtar Ads app you can create professional and attractive
       advertisements in either image or video format in a matter of seconds!
-    image_alt: lorem-ipsum
+    image_alt: Behtar Ads
     background: gray
     actions: []
     type: section_content
