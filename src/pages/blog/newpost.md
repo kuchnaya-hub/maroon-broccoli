@@ -4,7 +4,7 @@ subtitle: ''
 date: '2021-01-20'
 excerpt: Make your own business through reselling.
 image_alt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Behtar Ads
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
 canonical_url: ''
