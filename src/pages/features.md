@@ -8,7 +8,7 @@ sections:
       *Behtar Ads* has got the best features for you!
 
 
-    image_alt: lorem-ipsum
+    image_alt: F
     actions: []
     type: section_hero
     image: images/successful-hickory.png
