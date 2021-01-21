@@ -5,7 +5,7 @@ sections:
     section_id: lorem-ipsum
     content: |
       ### Free to Start
-    image_alt: nicirP
+    image_alt: Pricing
     actions: []
     type: section_hero
     image: images/pleasant-lettuce.png
