@@ -2,7 +2,7 @@
 title: FAQ
 meta_title: FAQ
 meta_description: >-
-  fREQUENTLY ASKED QUESTIONS, faq, Meesho, glowroad, Shop101, reseller
+  Frequently Asked Questions, FAQ,  Meesho, glowroad, Shop101, reseller
   community, reseller, Resellers Are Welcome, resell, reselling, digital
   marketing, marketplace, marketing digital, marketing, shortvideo, short video
   ads, Earn From Home, earnonline, earn money online, reselling app, jobsearch,
