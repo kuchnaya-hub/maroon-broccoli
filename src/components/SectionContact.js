@@ -31,11 +31,11 @@ export default class SectionContact extends React.Component {
                   </p>
                   <p className="form-row">
                     <label id="contact-form-email-label" htmlFor="contact-form-email" className="form-label">Email address</label>
-                    <input type="email" name="email" id="contact-form-email" aria-labelledby="contact-form-email-label" className="form-input"/>
+                    <input type="email" name="email" id="contact-form-email" aria-labelledby="contact-form-email-label" className="form-input" required/>
                   </p>
                   <p className="form-row">
                     <label id="contact-form-message-label" htmlFor="contact-form-message" className="form-label">Message</label>
-                    <textarea name="message" id="contact-form-message" aria-labelledby="contact-form-message-label" className="form-textarea" rows="7" />
+                    <textarea name="message" id="contact-form-message" aria-labelledby="contact-form-message-label" className="form-textarea" rows="7" required/>
                   </p>
                   <input type="hidden" aria-label="contact-form-name" name="form-name" value="contactForm" />
                   <p className="form-row form-submit">
