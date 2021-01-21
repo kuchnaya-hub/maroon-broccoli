@@ -13,7 +13,7 @@ sections:
         url: 'https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads'
         primary: true
         new_window: true
-    image: images/sharetocreate-shr.png
+    image: images/website-header.png
   - section_id: features
     type: section_features
     background: gray
