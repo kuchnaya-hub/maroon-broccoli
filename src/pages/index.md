@@ -45,7 +45,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: View Demo
-            url: lorem-ipsum
+            url: 'https://www.youtube.com/watch?v=-TuQF23xRu0&feature=youtu.be'
             primary: true
             new_window: true
             no_follow: false
