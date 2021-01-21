@@ -2,9 +2,9 @@
 title: Contact
 sections:
   - title: Contact Us
-    section_id: lorem-ipsum
+    section_id: contact
     content: ''
-    image_alt: lorem-ipsum
+    image_alt: Contact Us
     actions: []
     type: section_hero
     image: images/important-sun.png
@@ -15,6 +15,11 @@ sections:
     content: |
       Connect with us on *WhatsApp* **+918369402278**
 template: landing
-meta_description: Contact Us
+meta_description: >-
+  contact, Meesho, glowroad, Shop101, reseller community, reseller, Resellers
+  Are Welcome, resell, reselling, digital marketing, marketplace, marketing
+  digital, marketing, shortvideo, short video ads, Earn From Home, earnonline,
+  earn money online, reselling app, jobsearch, jobseekers, part time job, house
+  wife, Behtar, behtar ads
 meta_title: Contact Us
 ---
