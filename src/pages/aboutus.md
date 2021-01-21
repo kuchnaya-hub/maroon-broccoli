@@ -1,7 +1,13 @@
 ---
 title: lorem-ipsum
 meta_title: lorem-ipsum
-meta_description: lorem-ipsum
+meta_description: >-
+  Behtar Ads is India's own Short Marketing Video Ads App, About US, Behtar Ads,
+  Reseller App Products, Meesho, glowroad, Shop101, reseller community,
+  reseller, Resellers Are Welcome, resell, reselling, digital marketing,
+  marketplace, marketing digital, marketing, shortvideo, short video ads, Earn
+  From Home, earnonline, earn money online, reselling app, jobsearch,
+  jobseekers, part time job, house wife, Behtar, behtar ads
 canonical_url: lorem-ipsum
 no_index: false
 sections:
