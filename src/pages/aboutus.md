@@ -38,6 +38,6 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/abt-header-ad.png
+    image: images/smiling-goose.png
 template: landing
 ---
