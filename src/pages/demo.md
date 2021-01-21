@@ -25,7 +25,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
-    background: gray
+    background: white
     faq_items: []
     type: section_faq
 template: landing
