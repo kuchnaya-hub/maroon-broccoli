@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - title: Pricing
-    section_id: P
+    section_id: Pricing
     content: |
       ### Free to Start
     image_alt: Pricing
