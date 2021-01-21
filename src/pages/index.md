@@ -52,8 +52,8 @@ sections:
             type: action
           - label: Download Now
             url: lorem-ipsum
-            primary: true
-            new_window: false
+            primary: false
+            new_window: true
             no_follow: false
             type: action
         type: feature_item
