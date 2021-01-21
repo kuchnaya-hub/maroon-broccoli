@@ -19,7 +19,7 @@ sections:
     type: section_hero
     image: images/about-header.png
   - title: ''
-    section_id: B
+    section_id: ''
     content: >
       Behtar Ads is India's own **Short Marketing** Video Ads App which can help
       you to make short creatives of your reselling products.
