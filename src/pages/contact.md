@@ -7,6 +7,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/important-sun.png
   - section_id: contact
     type: section_contact
     background: gray
