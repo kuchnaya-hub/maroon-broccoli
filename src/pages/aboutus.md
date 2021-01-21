@@ -28,7 +28,7 @@ sections:
 
       Using Behtar Ads app you can create professional and attractive
       advertisements in either image or video format in a matter of seconds!
-    image_alt: ''
+    image_alt: Behtar
     background: gray
     actions: []
     type: section_content
