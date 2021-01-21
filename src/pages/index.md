@@ -27,6 +27,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
+            primary: true
           - label: Download Now
             url: >-
               https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads
