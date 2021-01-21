@@ -27,7 +27,7 @@ export default class SectionContact extends React.Component {
                   </p>
                   <p className="form-row">
                     <label id="contact-form-name-label" htmlFor="contact-form-name" className="form-label">Name</label>
-                    <input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" className="form-input" required />
+                    <input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" className="form-input" required/>
                   </p>
                   <p className="form-row">
                     <label id="contact-form-email-label" htmlFor="contact-form-email" className="form-label">Email address</label>
