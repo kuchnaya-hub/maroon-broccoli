@@ -31,7 +31,7 @@ sections:
           - label: Download Now
             url: >-
               https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads
-            primary: true
+            primary: false
             new_window: true
             no_follow: false
             type: action
