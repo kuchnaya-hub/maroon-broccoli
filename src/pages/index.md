@@ -28,6 +28,7 @@ sections:
           - label: View Demo
             url: 'https://www.youtube.com/watch?v=-TuQF23xRu0&feature=youtu.be'
             primary: true
+            new_window: true
           - label: Download Now
             url: >-
               https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads
