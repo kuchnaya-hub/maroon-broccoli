@@ -27,7 +27,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-          - label: lorem-ipsum
+          - label: Download Now
             url: lorem-ipsum
             primary: false
             new_window: false
