@@ -26,7 +26,7 @@ sections:
           want to share with your customer.
         actions:
           - label: View Demo
-            url: /features
+            url: 'https://www.youtube.com/watch?v=-TuQF23xRu0&feature=youtu.be'
             primary: true
           - label: Download Now
             url: >-
