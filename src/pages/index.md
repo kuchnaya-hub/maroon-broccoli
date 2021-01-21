@@ -27,6 +27,12 @@ sections:
         actions:
           - label: Learn More
             url: /features
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            primary: false
+            new_window: false
+            no_follow: false
+            type: action
         image: images/shareCreate-img.png
       - title: Make Creatives Instantly
         content: >
