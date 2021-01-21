@@ -32,6 +32,6 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/about_ct.jpg
+    image: images/festive-sun.jpg
 template: landing
 ---
