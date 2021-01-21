@@ -50,4 +50,11 @@ sections:
         url: 'https://bit.ly/3pYQcXz'
         new_window: true
 template: landing
+meta_title: Features
+meta_description: >-
+  Features, The Best Features of Behtar Ads, Meesho, glowroad, Shop101, reseller
+  community, reseller, Resellers Are Welcome, resell, reselling, digital
+  marketing, marketplace, marketing digital, marketing, shortvideo, short video
+  ads, Earn From Home, earnonline, earn money online, reselling app, jobsearch,
+  jobseekers, part time job, house wife, Behtar, behtar ads
 ---
