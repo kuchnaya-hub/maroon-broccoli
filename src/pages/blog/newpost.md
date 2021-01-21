@@ -7,7 +7,7 @@ image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
-canonical_url: ''
+canonical_url: 5 Reasons Why Online Reselling Is Great Opportunity to Start A Business
 no_index: false
 template: post
 image: images/best-amaranth.jpg
