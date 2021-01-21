@@ -72,7 +72,8 @@ sections:
             no_follow: false
             type: action
           - label: Download Now
-            url: lorem-ipsum
+            url: >-
+              https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads
             primary: false
             new_window: false
             no_follow: false
