@@ -14,7 +14,7 @@ sections:
     section_id: FAQ
     content: |
       ## Ask us Anything
-    image_alt: qaf
+    image_alt: ''
     actions: []
     type: section_hero
     image: images/great-aspen.png
