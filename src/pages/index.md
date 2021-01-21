@@ -43,7 +43,13 @@ sections:
           Select the product, add it inside the app and it will automatically
           create the creatives of the product.
         image_alt: lorem-ipsum
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            primary: false
+            new_window: false
+            no_follow: false
+            type: action
         type: feature_item
         image: images/selectProduct.png
       - title: Share Anywhere
