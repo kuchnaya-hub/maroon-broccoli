@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - title: Contact Us
-    section_id: noC
+    section_id: contact
     content: ''
     image_alt: lorem-ipsum
     actions: []
