@@ -37,6 +37,5 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/abt_vector.png
 template: landing
 ---
