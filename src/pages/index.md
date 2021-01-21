@@ -37,7 +37,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-        image: images/shareCreate-img.png
+        image: images/knowledgeable-onion.png
       - title: Make Creatives Instantly
         content: >
           Select the product, add it inside the app and it will automatically
