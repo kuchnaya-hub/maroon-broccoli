@@ -46,7 +46,7 @@ sections:
         actions:
           - label: lorem-ipsum
             url: lorem-ipsum
-            primary: false
+            primary: true
             new_window: true
             no_follow: false
             type: action
