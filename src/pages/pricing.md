@@ -41,5 +41,5 @@ sections:
             primary: true
 template: landing
 meta_title: Pricing
-meta_description: 'pricing, pricing plans, free to start'
+meta_description: 'pricing, pricing plans, free to start, '
 ---
