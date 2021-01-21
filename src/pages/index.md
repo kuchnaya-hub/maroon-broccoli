@@ -25,7 +25,7 @@ sections:
           Browsing through your product catalogs to select products that you
           want to share with your customer.
         actions:
-          - label: Learn More
+          - label: View Demo
             url: /features
             primary: true
           - label: Download Now
