@@ -71,6 +71,12 @@ sections:
             new_window: false
             no_follow: false
             type: action
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            primary: false
+            new_window: false
+            no_follow: false
+            type: action
         type: feature_item
         image: images/shareanywhere_updated.png
   - section_id: reviews
