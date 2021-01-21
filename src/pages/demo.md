@@ -40,7 +40,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
-    background: gray
+    background: white
     features: []
     type: section_features
 template: landing
