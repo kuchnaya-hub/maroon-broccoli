@@ -88,7 +88,7 @@
                 "primary": true
             }
         ],
-        "has_subscribe": true,
+        "has_subscribe": false,
         "subscribe_title": "Subscribe",
         "subscribe_content": "Stay up to date with our latest developments.",
         "content": "&copy; Behtar Ads. All rights reserved.",
