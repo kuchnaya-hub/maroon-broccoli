@@ -12,7 +12,7 @@ sections:
     actions: []
     type: section_hero
     image: images/blank.png
-  - title: lorem-ipsum
+  - title: ''
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
