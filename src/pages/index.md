@@ -63,7 +63,7 @@ sections:
         content: >
           After the creatives are ready all you have to do is just click on
           share and share the creatives anywhere you want.
-        image_alt: lorem-ipsum
+        image_alt: Share Anywhere
         actions:
           - label: View Demo
             url: 'https://www.youtube.com/watch?v=-TuQF23xRu0&feature=youtu.be'
