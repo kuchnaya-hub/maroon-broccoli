@@ -4,7 +4,7 @@ sections:
   - title: Contact Us
     section_id: contact
     content: ''
-    image_alt: lorem-ipsum
+    image_alt: su tcatnoc
     actions: []
     type: section_hero
     image: images/important-sun.png
