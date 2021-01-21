@@ -9,6 +9,7 @@ thumb_image: images/header-blog.jpg
 template: post
 image: images/polite-spruce.jpg
 meta_title: Powerful new features that make short video creation easy
+thumb_image_alt: Powerful new features that make short video creation easy
 ---
 You can use our Behtar Ads app to create short videos for all reselling sorts of things. We’ll start with new unique ideas for using short video to help your reselling business shine & grow in 2021.
 
