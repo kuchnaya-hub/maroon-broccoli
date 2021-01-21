@@ -12,9 +12,9 @@ canonical_url: lorem-ipsum
 no_index: false
 sections:
   - title: About Us
-    section_id: lorem-ipsum
+    section_id: About
     content: ''
-    image_alt: Behtar Ads
+    image_alt: About
     actions: []
     type: section_hero
     image: images/about-header.png
