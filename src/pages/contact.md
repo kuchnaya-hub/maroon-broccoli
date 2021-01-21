@@ -1,7 +1,7 @@
 ---
 title: Contact
 sections:
-  - title: Contact
+  - title: Contact Us
     section_id: lorem-ipsum
     content: ''
     image_alt: lorem-ipsum
