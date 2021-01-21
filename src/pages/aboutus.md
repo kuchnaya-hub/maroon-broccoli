@@ -5,7 +5,7 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 sections:
-  - title: lorem-ipsum
+  - title: About Us
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
