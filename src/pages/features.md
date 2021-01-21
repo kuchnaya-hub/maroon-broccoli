@@ -48,5 +48,6 @@ sections:
     actions:
       - label: Download App
         url: 'https://bit.ly/3pYQcXz'
+        new_window: true
 template: landing
 ---
