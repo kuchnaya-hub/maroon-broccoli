@@ -6,7 +6,7 @@ excerpt: Make your own business through reselling.
 image_alt: lorem-ipsum
 thumb_image_alt: Behtar Ads
 meta_title: Behtar Ads
-meta_description: lorem-ipsum
+meta_description: Behtar Ads
 canonical_url: ''
 no_index: false
 template: post
