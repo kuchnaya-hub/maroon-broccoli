@@ -48,11 +48,6 @@
                 "url": "/blog"
             },
             {
-                "label": "Download",
-                "url": "https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads",
-                "new_window": true
-            },
-            {
                 "label": "FAQ",
                 "url": "faq",
                 "primary": false,
@@ -64,6 +59,11 @@
                 "label": "Contact",
                 "url": "/contact",
                 "primary": true
+            },
+            {
+                "label": "Download",
+                "url": "https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads",
+                "new_window": true
             }
         ],
         "has_social": true,
