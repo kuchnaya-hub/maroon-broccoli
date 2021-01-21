@@ -15,4 +15,6 @@ sections:
     content: |
       Connect with us on *WhatsApp* **+918369402278**
 template: landing
+meta_description: Contact Us
+meta_title: Contact Us
 ---
