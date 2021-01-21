@@ -6,7 +6,12 @@ excerpt: Make your own business through reselling.
 image_alt: lorem-ipsum
 thumb_image_alt: Behtar Ads
 meta_title: 5 Reasons Why Online Reselling Is Great Opportunity to Start A Business
-meta_description: 5 Reasons Why Online Reselling Is Great Opportunity to Start A Business
+meta_description: >-
+  Meesho, glowroad, Shop101, reseller community, reseller, Resellers Are
+  Welcome, resell, reselling, digital marketing, marketplace, marketing digital,
+  marketing, shortvideo, short video ads, Earn From Home, earnonline, earn money
+  online, reselling app, jobsearch, jobseekers, part time job, house wife,
+  Behtar, behtar ads
 canonical_url: ''
 no_index: false
 template: post
