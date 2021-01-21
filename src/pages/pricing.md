@@ -41,5 +41,5 @@ sections:
             primary: true
 template: landing
 meta_title: Pricing
-meta_description: 'pricing, pricing plans, plans strater '
+meta_description: 'pricing, pricing plans, plans strater and professional, free, '
 ---
