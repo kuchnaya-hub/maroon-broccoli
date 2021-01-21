@@ -65,7 +65,7 @@ sections:
           share and share the creatives anywhere you want.
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: View Demo
             url: lorem-ipsum
             primary: true
             new_window: true
