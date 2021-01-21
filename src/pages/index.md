@@ -52,7 +52,7 @@ sections:
             type: action
           - label: Download Now
             url: lorem-ipsum
-            primary: false
+            primary: true
             new_window: false
             no_follow: false
             type: action
