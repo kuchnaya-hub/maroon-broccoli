@@ -17,7 +17,6 @@ sections:
     image_alt: About
     actions: []
     type: section_hero
-    image: images/about-header.png
   - title: ''
     section_id: About
     content: >
