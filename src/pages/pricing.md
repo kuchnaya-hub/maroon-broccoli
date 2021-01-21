@@ -2,10 +2,10 @@
 title: Pricing
 sections:
   - title: Pricing
-    section_id: lorem-ipsum
+    section_id: Pricing
     content: |
       ### Free to Start
-    image_alt: lorem-ipsum
+    image_alt: Pricing
     actions: []
     type: section_hero
     image: images/pleasant-lettuce.png
@@ -41,5 +41,11 @@ sections:
             primary: true
 template: landing
 meta_title: Pricing
-meta_description: 'pricing, Behtar Ads'
+meta_description: >-
+  pricing, pricing plans, plans strater and professional, free, Meesho,
+  glowroad, Shop101, reseller community, reseller, Resellers Are Welcome,
+  resell, reselling, digital marketing, marketplace, marketing digital,
+  marketing, shortvideo, short video ads, Earn From Home, earnonline, earn money
+  online, reselling app, jobsearch, jobseekers, part time job, house wife,
+  Behtar, behtar ads
 ---
