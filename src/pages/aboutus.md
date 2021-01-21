@@ -32,6 +32,6 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/festive-sun.jpg
+    image: images/abt_vector.png
 template: landing
 ---
