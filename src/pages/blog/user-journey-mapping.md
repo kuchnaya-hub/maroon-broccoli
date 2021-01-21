@@ -2,9 +2,7 @@
 title: |-
   Why Video Marketing is gaining
   popularity?
-subtitle: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+subtitle: ''
 excerpt: >-
   Video messaging uses audiovisual methods, so it is more effective in
   delivering any message. People usually respond more to visual and audio format
