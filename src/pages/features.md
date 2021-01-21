@@ -2,7 +2,7 @@
 title: Features
 sections:
   - title: Features
-    section_id: F
+    section_id: Features
     content: >+
       Having a hard time creating digital marketing content for your products?
       *Behtar Ads* has got the best features for you!
