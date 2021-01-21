@@ -44,7 +44,7 @@ sections:
           create the creatives of the product.
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: View Demo
             url: lorem-ipsum
             primary: true
             new_window: true
