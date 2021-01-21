@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: About Us
 meta_title: About Us
 meta_description: >-
   Behtar Ads is India's own Short Marketing Video Ads App, About US, Behtar Ads,
@@ -17,7 +17,7 @@ sections:
     image_alt: About
     actions: []
     type: section_hero
-    image: images/about-header.png
+    image: images/blank.png
   - title: ''
     section_id: About
     content: >
@@ -38,6 +38,5 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/abt_vector.png
 template: landing
 ---
