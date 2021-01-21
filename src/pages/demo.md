@@ -11,5 +11,10 @@ sections:
     background: gray
     reviews: []
     type: section_reviews
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 template: landing
 ---
