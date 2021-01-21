@@ -1,6 +1,6 @@
 ---
 title: FAQ
-meta_title: Pricing
+meta_title: FAQ
 meta_description: 'pricing, Behtar Ads'
 canonical_url: lorem-ipsum
 no_index: false
