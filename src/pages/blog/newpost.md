@@ -5,7 +5,7 @@ date: '2021-01-20'
 excerpt: Make your own business through reselling.
 image_alt: lorem-ipsum
 thumb_image_alt: Behtar Ads
-meta_title: 5 Reasons Why Online Reselling Is Great Opportunity to Start A Business
+meta_title: Blog
 meta_description: 5 Reasons Why Online Reselling Is Great Opportunity to Start A Business
 canonical_url: ''
 no_index: false
