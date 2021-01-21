@@ -11,7 +11,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-    image: images/blank.png
+    image: images/about-header.png
   - title: ''
     section_id: lorem-ipsum
     content: >
