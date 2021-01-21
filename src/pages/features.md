@@ -2,13 +2,13 @@
 title: Features
 sections:
   - title: Features
-    section_id: lorem-ipsum
+    section_id: Features
     content: >+
       Having a hard time creating digital marketing content for your products?
       *Behtar Ads* has got the best features for you!
 
 
-    image_alt: lorem-ipsum
+    image_alt: Features
     actions: []
     type: section_hero
     image: images/successful-hickory.png
