@@ -32,5 +32,6 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/about_ct.jpg
 template: landing
 ---
