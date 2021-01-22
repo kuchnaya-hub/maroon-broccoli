@@ -17,7 +17,7 @@ export default class Body extends React.Component {
             <React.Fragment>
                 <Helmet>
                     <title>{title}</title>
-                    <link rel="icon" type="image/png"  href="https://behtarads.com/images/ic_launcher.png" />
+                    <link rel="icon" type="image/png"  href="https://behtarads.com/images/purple-europa.png" />
                     <meta charSet="utf-8"/>
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
