@@ -8,7 +8,7 @@ sections:
     image_alt: Pricing
     actions: []
     type: section_hero
-    image: images/pleasant-lettuce.png
+    image: images/fierce-spinach.png
   - section_id: pricing
     type: section_pricing
     background: gray
