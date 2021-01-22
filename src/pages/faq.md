@@ -17,7 +17,7 @@ sections:
     image_alt: FAQ
     actions: []
     type: section_hero
-    image: images/great-aspen.png
+    image: images/caring-jupiter.png
   - section_id: faq
     type: section_faq
     background: gray

@@ -15,6 +15,7 @@ image_alt: Business people in a meeting
 template: post
 canonical_url: 5-reasons-why-online-reselling-is-a-great-opportunity-to-start-a-business
 meta_title: Why Video Marketing is gaining popularity?
+meta_description: Why Video Marketing is gaining popularity?
 ---
 Various brands need a video advertising technique this thought isn't new. What has changed is the type by which video has become on each stage and channel? As the video plays a very important role, now in advertising people tend to spend more money on making video content as it does attract more target audience.
 
