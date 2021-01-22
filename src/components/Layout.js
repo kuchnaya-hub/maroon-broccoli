@@ -19,9 +19,16 @@ export default class Body extends React.Component {
                     <title>{title}</title>
                     <link rel="icon" type="image/png"  href="https://behtarads.com/images/purple-europa.png" />
                     <meta charSet="utf-8"/>        
-                    <meta property="og:url" content="https://behtarads.com/"/>
-                    <meta property="og:title" content="Behtar Ads"/>
-                    <meta property="og:image" content="http://www.hello.com/img_/hellowithwaves.png"/>          
+                    <style type='text/css'>img#wpstats{display:none}</style>		<meta property="fb:app_id" content="187288694643718" />
+		<meta property="fb:pages" content="8062627951" />
+		<meta property="fb:admins" content="8803025,726995222,1550970059,1661021707,1178144075,643979435,4700188" />
+		<meta property="og:site_name" content="TechCrunch" />
+		<meta property="og:site" content="social.techcrunch.com" />
+		<meta property="og:title" content="TechCrunch &#8211; Startup and Technology News" />
+		<meta property="og:description" content="TechCrunch - Reporting on the business of technology, startups, venture capital funding, and Silicon Valley" />
+		<meta property="og:image" content="https://techcrunch.com/wp-content/themes/techcrunch-2017/images/opengraph-default.png" />
+		<meta property="og:url" content="https://social.techcrunch.com/" />
+		<meta property="og:type" content="website" />       
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.meta_description', null)}/>
