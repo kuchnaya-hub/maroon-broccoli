@@ -19,7 +19,7 @@ export default class Body extends React.Component {
                     <title>{title}</title>
                     <link rel="icon" type="image/png"  href="https://behtarads.com/images/purple-europa.png" />
                     <meta charSet="utf-8"/>        
-                    <style type='text/css'>img#wpstats{display:none}</style>		<meta property="fb:app_id" content="187288694643718" />
+                  <meta property="fb:app_id" content="187288694643718" />
 		<meta property="fb:pages" content="8062627951" />
 		<meta property="fb:admins" content="8803025,726995222,1550970059,1661021707,1178144075,643979435,4700188" />
 		<meta property="og:site_name" content="TechCrunch" />
