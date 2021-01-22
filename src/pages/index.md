@@ -58,7 +58,7 @@ sections:
             no_follow: false
             type: action
         type: feature_item
-        image: images/selectProduct.png
+        image: images/parallel-sage.png
       - title: Share Anywhere
         content: >
           After the creatives are ready all you have to do is just click on
