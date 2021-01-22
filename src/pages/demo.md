@@ -16,7 +16,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
-  - title: lorem-ipsum
+  - title: test
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
