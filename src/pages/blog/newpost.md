@@ -16,7 +16,7 @@ canonical_url: ''
 no_index: false
 template: post
 image: images/beige-plankton.jpg
-thumb_image: images/futuristic-tiger.jpg
+thumb_image: images/caring-birch.jpg
 author: src/data/authors/person-7gysldjz2.json
 ---
 Are you tired of binge-watching videos on
