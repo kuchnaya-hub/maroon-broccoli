@@ -17,7 +17,7 @@ sections:
     image_alt: About
     actions: []
     type: section_hero
-    image: images/violet-lime.png
+    image: images/purple-yam.png
   - title: ''
     section_id: About
     content: >
@@ -38,6 +38,6 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/smiling-goose.png
+    image: images/knowledgeable-sage.png
 template: landing
 ---
