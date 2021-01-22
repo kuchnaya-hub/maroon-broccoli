@@ -15,7 +15,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/groovy-steel.png
+    image: images/thoughtful-lavender.png
     image_alt: Features
     title: The Best Features of Behtar Ads
     content: >-
