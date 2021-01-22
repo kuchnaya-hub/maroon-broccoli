@@ -16,6 +16,7 @@ meta_description: >-
   marketing, shortvideo, short video ads, Earn From Home, earnonline, earn money
   online, reselling app, jobsearch, jobseekers, part time job, house wife,
   Behtar, behtar ads
+image_alt: Powerful new features that make short video creation easy
 ---
 You can use our Behtar Ads app to create short videos for all reselling sorts of things. We’ll start with new unique ideas for using short video to help your reselling business shine & grow in 2021.
 
