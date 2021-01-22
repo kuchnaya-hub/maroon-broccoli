@@ -36,6 +36,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/purple-europa.png
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
