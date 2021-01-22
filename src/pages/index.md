@@ -79,7 +79,7 @@ sections:
             no_follow: false
             type: action
         type: feature_item
-        image: images/shareanywhere_updated.png
+        image: images/marvelous-giraffe.png
   - section_id: reviews
     type: section_reviews
     background: white
