@@ -19,6 +19,10 @@ export default class Body extends React.Component {
                     <title>{title}</title>
                     <link rel="icon" type="image/png"  href="https://behtarads.com/images/purple-europa.png" />
                     <meta charSet="utf-8"/>
+                    <meta name="Behtar Ads:title" content="Marketing App for Resellers" />
+                    <meta name="Behtar Ads:description" content=" Get promo videos and creatives for your reselling product instantly. Use your favorite reselling app like Meesho, Shop101 and GlowRoad." />
+                    <meta name="Behtar Ads:image" content=" https://behtarads.com/images/screenshare_img.jpg" />
+                    <meta name="Behtar Adsr:card" content="summary_large_image" />
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.meta_description', null)}/>
