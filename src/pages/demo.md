@@ -51,7 +51,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/ic_launcher.png
+        image: images/favicon.png
     type: section_features
   - title: lorem-ipsum
     section_id: lorem-ipsum
