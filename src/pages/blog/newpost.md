@@ -3,8 +3,8 @@ title: 5 Reasons Why Online Reselling Is Great Opportunity to Start A Business
 subtitle: ''
 date: '2021-01-20'
 excerpt: Make your own business through reselling.
-image_alt: lorem-ipsum
-thumb_image_alt: Behtar Ads
+image_alt: Why Video Marketing is gaining popularity?
+thumb_image_alt: Why Video Marketing is gaining popularity?
 meta_title: 5 Reasons Why Online Reselling Is Great Opportunity to Start A Business
 meta_description: >-
   Blog, Meesho, glowroad, Shop101, reseller community, reseller, Resellers Are
@@ -15,8 +15,8 @@ meta_description: >-
 canonical_url: ''
 no_index: false
 template: post
-image: images/best-amaranth.jpg
-thumb_image: images/futuristic-tiger.jpg
+image: images/nervous-aluminum.jpg
+thumb_image: images/caring-birch.jpg
 author: src/data/authors/person-7gysldjz2.json
 ---
 Are you tired of binge-watching videos on
