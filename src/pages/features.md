@@ -16,7 +16,7 @@ sections:
     type: section_content
     background: gray
     image: images/groovy-steel.png
-    image_alt: App preview on a phone and tablet
+    image_alt: Features
     title: The Best Features of Behtar Ads
     content: >-
       ###### Having a hard time creating digital marketing content for your
