@@ -38,6 +38,6 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/smiling-goose.png
+    image: images/knowledgeable-sage.png
 template: landing
 ---
