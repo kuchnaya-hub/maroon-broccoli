@@ -7,7 +7,7 @@ excerpt: Short Video Ideas for Your Reselling Business
 date: '2020-12-11'
 thumb_image: images/header-blog.jpg
 template: post
-image: images/polite-spruce.jpg
+image: images/magenta-paprika.jpg
 meta_title: Powerful new features that make short video creation easy
 thumb_image_alt: Powerful new features that make short video creation easy
 meta_description: >-
@@ -16,6 +16,7 @@ meta_description: >-
   marketing, shortvideo, short video ads, Earn From Home, earnonline, earn money
   online, reselling app, jobsearch, jobseekers, part time job, house wife,
   Behtar, behtar ads
+image_alt: Powerful new features that make short video creation easy
 ---
 You can use our Behtar Ads app to create short videos for all reselling sorts of things. We’ll start with new unique ideas for using short video to help your reselling business shine & grow in 2021.
 
