@@ -11,12 +11,12 @@ sections:
     image_alt: Features
     actions: []
     type: section_hero
-    image: images/successful-hickory.png
+    image: images/enthusiastic-zebra.png
   - section_id: features
     type: section_content
     background: gray
-    image: images/groovy-steel.png
-    image_alt: App preview on a phone and tablet
+    image: images/thoughtful-lavender.png
+    image_alt: Features
     title: The Best Features of Behtar Ads
     content: >-
       ###### Having a hard time creating digital marketing content for your
