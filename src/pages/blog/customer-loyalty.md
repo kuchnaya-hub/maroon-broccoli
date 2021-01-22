@@ -12,9 +12,7 @@ thumb_image: >-
   images/Can Daily Marketing Help You to Increase Your Sales in Reselling
   Business.jpg
 thumb_image_alt: Can Daily Marketing Help You to Increase Your Sales in Reselling Business?
-image: >-
-  images/Can Daily Marketing Help You to Increase Your Sales in Reselling
-  Business.jpeg
+image: images/neat-oak.jpg
 image_alt: A group of people working in a cafe
 template: post
 meta_title: Can Daily Marketing Help You to Increase Your Sales in Reselling Business?
