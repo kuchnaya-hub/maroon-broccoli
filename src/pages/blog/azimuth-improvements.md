@@ -7,7 +7,7 @@ excerpt: Short Video Ideas for Your Reselling Business
 date: '2020-12-11'
 thumb_image: images/header-blog.jpg
 template: post
-image: images/polite-spruce.jpg
+image: images/magenta-paprika.jpg
 meta_title: Powerful new features that make short video creation easy
 thumb_image_alt: Powerful new features that make short video creation easy
 meta_description: >-
