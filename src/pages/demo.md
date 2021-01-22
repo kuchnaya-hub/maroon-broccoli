@@ -16,7 +16,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
-  - title: lorem-ipsum
+  - title: test
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
@@ -36,6 +36,22 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
+        image: images/ic_launcher.png
     type: section_features
   - title: lorem-ipsum
     section_id: lorem-ipsum
