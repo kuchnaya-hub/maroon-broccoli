@@ -10,7 +10,7 @@ author: src/data/authors/jane-doe.yaml
 date: '2021-01-20'
 thumb_image: images/market-feed.jpg
 thumb_image_alt: Business people in a meeting
-image: images/pexels-startup-stock-photos-7353.jpg
+image: images/neat-pluto.jpg
 image_alt: Business people in a meeting
 template: post
 canonical_url: 5-reasons-why-online-reselling-is-a-great-opportunity-to-start-a-business
