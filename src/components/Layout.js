@@ -19,12 +19,6 @@ export default class Body extends React.Component {
                     <title>{title}</title>
                     <link rel="icon" type="image/png"  href="https://behtarads.com/images/purple-europa.png" />
                     <meta charSet="utf-8"/>        
-                    <meta property="og:title" content="Marketing App for Resellers" />
-                    <meta property="og:type" content="article" />
-                    <meta property="og:url" content="https://behtarads.com/" />
-                    <meta property="og:image" content="https://behtarads.com/images/screenshare_img.jpg" />
-                    <meta property="og:description" content="Description Here" />
-                    <meta property="og:site_name" content="Behtar Ads" />
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.meta_description', null)}/>
