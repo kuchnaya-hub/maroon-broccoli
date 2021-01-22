@@ -16,7 +16,7 @@ canonical_url: ''
 no_index: false
 template: post
 image: images/best-amaranth.jpg
-thumb_image: images/shopping.jpg
+thumb_image: images/feed-videomarketing.jpg
 author: src/data/authors/person-7gysldjz2.json
 ---
 Are you tired of binge-watching videos on
