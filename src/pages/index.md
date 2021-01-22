@@ -109,4 +109,5 @@ meta_description: >-
   ads, Earn From Home, earnonline, earn money online, reselling app, jobsearch,
   jobseekers, part time job, house wife, Behtar, behtar ads
 template: landing
+canonical_url: 'https://community.netlify.com/t/how-to-change-favicon/23485'
 ---
