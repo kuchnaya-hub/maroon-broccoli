@@ -9,7 +9,7 @@ excerpt: >-
 author: src/data/authors/jane-doe.yaml
 date: '2021-01-20'
 thumb_image: images/fabulous-potato.jpg
-thumb_image_alt: Business people in a meeting
+thumb_image_alt: Why Video Marketing is gaining popularity?
 image: images/neat-pluto.jpg
 image_alt: Business people in a meeting
 template: post
