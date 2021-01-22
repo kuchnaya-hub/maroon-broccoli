@@ -7,7 +7,7 @@ sections:
     image_alt: Contact Us
     actions: []
     type: section_hero
-    image: images/important-sun.png
+    image: images/good-lavender.png
   - section_id: contact
     type: section_contact
     background: gray
