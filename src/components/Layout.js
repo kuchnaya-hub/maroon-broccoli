@@ -22,14 +22,14 @@ export default class Body extends React.Component {
                       <meta property="og:title" content="Marketing App for Resellers" />
                         <meta property="og:type" content="article" />
                         <meta property="og:url" content="https://behtarads.com/" />
-                        <meta property="og:image" content="https://behtarads.com/images/screenshare_img.jpg" />
+                        <meta property="og:image" content="https://behtarads.com/images/website_thumb-1200.jpg" />
                         <meta property="og:site_name" content="BehtarAds" />
                         <meta property="og:description" content="Marketing App for Resellers" />
                         <meta name="twitter:card" content="summary_large_image" />
                         <meta name="twitter:site" content="@behtarads" />
                         <meta name="twitter:creator" content="@behtarads" />
                         <meta name="twitter:title" content="Marketing App for Resellers" />
-                        <meta name="twitter:image:src" content="https://behtarads.com/images/screenshare_img.jpg" />
+                        <meta name="twitter:image:src" content="https://behtarads.com/images/website_thumb-1200.jpg" />
                         <meta name="twitter:url" content="https://behtarads.com/" />
                         <meta name="twitter:description" content="Marketing App for Resellers" />
             
