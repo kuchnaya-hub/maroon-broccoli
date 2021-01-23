@@ -52,7 +52,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/screenshare_img.jpg
+        image: images/website_thumb-1200.jpg
     type: section_features
   - title: lorem-ipsum
     section_id: lorem-ipsum
