@@ -24,7 +24,7 @@ export default class Body extends React.Component {
                         <meta property="og:url" content="https://behtarads.com/" />
                         <meta property="og:image" content="https://behtarads.com/images/screenshare_img.jpg" />
                         <meta property="og:site_name" content="BehtarAds" />
-                        <meta property="fb:admins" content="1031507953" />
+                        <!-- <meta property="fb:admins" content="1031507953" /> -->
                         <meta property="og:description" content="Marketing App for Resellers" />
                         <meta name="twitter:card" content="summary_large_image" />
                         <meta name="twitter:site" content="@behtarads" />
