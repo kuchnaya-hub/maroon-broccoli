@@ -24,14 +24,14 @@ export default class Body extends React.Component {
                     <meta data-react-helmet="true" property="og:title" content="Marketing App for Resellers" />
                     <meta data-react-helmet="true" property="og:type" content="article" />
                     <meta data-react-helmet="true" property="og:url" content="https://behtarads.com/" />
-                    <meta data-react-helmet="true" property="og:image" content="https://behtarads.com/images/screenshare_img.jpg" />
+                    <meta data-react-helmet="true" property="og:image" content="https://behtarads.com/images/website_thumb-1200.jpg" />
                     <meta data-react-helmet="true" property="og:site_name" content="BehtarAds" />
                     <meta data-react-helmet="true" property="og:description" content="Marketing App for Resellers" />
                     <meta data-react-helmet="true" name="twitter:card" content="summary_large_image" />
                     <meta data-react-helmet="true" name="twitter:site" content="@behtarads" />
                     <meta data-react-helmet="true" name="twitter:creator" content="@behtarads" />
                     <meta data-react-helmet="true" name="twitter:title" content="Marketing App for Resellers" />
-                    <meta data-react-helmet="true" name="twitter:image:src" content="https://behtarads.com/images/screenshare_img.jpg" />
+                    <meta data-react-helmet="true" name="twitter:image:src" content="https://behtarads.com/images/website_thumb-1200.jpg" />
                     <meta data-react-helmet="true" name="twitter:url" content="https://behtarads.com/" />
                     <meta data-react-helmet="true" name="twitter:description" content="Marketing App for Resellers" />
             
