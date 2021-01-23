@@ -109,5 +109,5 @@ meta_description: >-
   ads, Earn From Home, earnonline, earn money online, reselling app, jobsearch,
   jobseekers, part time job, house wife, Behtar, behtar ads
 template: landing
-canonical_url: ''
+canonical_url: 'https://behtarads.com/'
 ---
