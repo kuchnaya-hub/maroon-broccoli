@@ -19,19 +19,21 @@ export default class Body extends React.Component {
                     <title>{title}</title>
                     <link rel="icon" type="image/png"  href="https://behtarads.com/images/purple-europa.png" />
                     <meta charSet="utf-8"/>      
-                      <meta property="og:title" content="Marketing App for Resellers" />
-                        <meta property="og:type" content="article" />
-                        <meta property="og:url" content="https://behtarads.com/" />
-                        <meta property="og:image" content="https://behtarads.com/images/website_thumb-1200.jpg" />
-                        <meta property="og:site_name" content="BehtarAds" />
-                        <meta property="og:description" content="Marketing App for Resellers" />
-                        <meta name="twitter:card" content="summary_large_image" />
-                        <meta name="twitter:site" content="@behtarads" />
-                        <meta name="twitter:creator" content="@behtarads" />
-                        <meta name="twitter:title" content="Marketing App for Resellers" />
-                        <meta name="twitter:image:src" content="https://behtarads.com/images/website_thumb-1200.jpg" />
-                        <meta name="twitter:url" content="https://behtarads.com/" />
-                        <meta name="twitter:description" content="Marketing App for Resellers" />
+                   <meta name="generator" content="Gatsby 2.22.17" />
+                    <meta data-react-helmet="true" charset="utf-8" />
+                    <meta data-react-helmet="true" property="og:title" content="Marketing App for Resellers" />
+                    <meta data-react-helmet="true" property="og:type" content="article" />
+                    <meta data-react-helmet="true" property="og:url" content="https://behtarads.com/" />
+                    <meta data-react-helmet="true" property="og:image" content="https://behtarads.com/images/screenshare_img.jpg" />
+                    <meta data-react-helmet="true" property="og:site_name" content="BehtarAds" />
+                    <meta data-react-helmet="true" property="og:description" content="Marketing App for Resellers" />
+                    <meta data-react-helmet="true" name="twitter:card" content="summary_large_image" />
+                    <meta data-react-helmet="true" name="twitter:site" content="@behtarads" />
+                    <meta data-react-helmet="true" name="twitter:creator" content="@behtarads" />
+                    <meta data-react-helmet="true" name="twitter:title" content="Marketing App for Resellers" />
+                    <meta data-react-helmet="true" name="twitter:image:src" content="https://behtarads.com/images/screenshare_img.jpg" />
+                    <meta data-react-helmet="true" name="twitter:url" content="https://behtarads.com/" />
+                    <meta data-react-helmet="true" name="twitter:description" content="Marketing App for Resellers" />
             
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
