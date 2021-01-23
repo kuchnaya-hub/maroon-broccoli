@@ -103,7 +103,7 @@ sections:
     title: Latest Posts
 meta_title: Behtar Ads - Marketing App for Resellers
 meta_description: >-
-  Marketing App for ResellersBehtar Ads, Reseller App Products, Meesho,
+  Marketing App for Resellers, Behtar Ads, Reseller App Products, Meesho,
   glowroad, Shop101, reseller community, reseller, Resellers Are Welcome,
   resell, reselling, digital marketing, marketplace, marketing digital,
   marketing, shortvideo, short video ads, Earn From Home, earnonline, earn money
