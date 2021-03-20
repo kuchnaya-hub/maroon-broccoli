@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    title: Video Creating App for Resellers.
+    title: Video Making App for Resellers.
     content: >
       Get promo videos and creatives for your reselling product instantly. Use
       your favorite reselling app like Meesho, Shop101 and GlowRoad.
