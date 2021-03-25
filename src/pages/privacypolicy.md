@@ -5,7 +5,7 @@ meta_description: Privacy Policy
 canonical_url: lorem-ipsum
 no_index: false
 sections:
-  - title: lorem-ipsum
+  - title: Privacy Policy
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
