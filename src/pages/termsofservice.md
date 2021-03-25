@@ -5,7 +5,7 @@ meta_description: Terms of Service
 canonical_url: lorem-ipsum
 no_index: false
 sections:
-  - title: lorem-ipsum
+  - title: Terms of Service
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
