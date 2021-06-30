@@ -27,7 +27,7 @@ sections:
           want to share with your customer.
         actions:
           - label: View Demo
-            url: 'https://www.youtube.com/watch?v=-TuQF23xRu0&feature=youtu.be'
+            url: 'https://www.youtube.com/watch?v=g4z5Fbu_3NY&feature=youtu.be'
             primary: true
             new_window: true
           - label: Download Now
@@ -45,7 +45,7 @@ sections:
         image_alt: App product creation Process
         actions:
           - label: View Demo
-            url: 'https://www.youtube.com/watch?v=-TuQF23xRu0&feature=youtu.be'
+            url: 'https://www.youtube.com/watch?v=g4z5Fbu_3NY&feature=youtu.be'
             primary: true
             new_window: true
             no_follow: false
