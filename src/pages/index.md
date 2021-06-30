@@ -27,7 +27,7 @@ sections:
           want to share with your customer.
         actions:
           - label: View Demo
-            url: '1150'
+            url: 'https://www.youtube.com/watch?v=g4z5Fbu_3NY'
             primary: true
             new_window: true
           - label: Download Now
