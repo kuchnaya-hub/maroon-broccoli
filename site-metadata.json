@@ -64,6 +64,20 @@
                 "label": "Download",
                 "url": "https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads",
                 "new_window": true
+            },
+            {
+                "label": "Privacy Policy",
+                "url": "/privacypolicy",
+                "primary": false,
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Terms of Service",
+                "url": "/termsofservice",
+                "primary": false,
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_social": true,
