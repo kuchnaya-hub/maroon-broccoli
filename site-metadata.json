@@ -74,7 +74,7 @@
             },
             {
                 "label": "Terms of Service",
-                "url": "/privacypolicy",
+                "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": false,
                 "no_follow": false
