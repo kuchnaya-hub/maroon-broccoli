@@ -86,6 +86,13 @@
                 "url": "https://wa.me/+918369402278",
                 "new_window": true,
                 "primary": true
+            },
+            {
+                "label": "Youtube",
+                "url": "https://www.youtube.com/channel/UCs8KGTIryS0snHn_IpgJrNQ",
+                "primary": false,
+                "new_window": true,
+                "no_follow": false
             }
         ],
         "has_subscribe": true,
