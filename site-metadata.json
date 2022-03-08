@@ -64,6 +64,13 @@
                 "label": "Download",
                 "url": "https://play.google.com/store/apps/details?id=com.kuchnaya.behtarads",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "primary": false,
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_social": true,
