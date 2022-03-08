@@ -111,5 +111,5 @@ meta_description: >-
   Behtar, behtar ads
 template: landing
 canonical_url: 'https://behtarads.com/'
-no_index: true
+no_index: false
 ---
