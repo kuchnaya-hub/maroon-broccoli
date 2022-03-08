@@ -28,7 +28,7 @@ sections:
           - label: Download App
             url: 'https://bit.ly/3pYQcXz'
       - title: Professional
-        price: ₹100
+        price: ₹99
         details: |
           *   750 credits
           *   25 Credits per Video
