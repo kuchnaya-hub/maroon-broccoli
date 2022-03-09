@@ -80,7 +80,7 @@ sections:
             type: action
         type: feature_item
         image: images/marvelous-giraffe.png
-      - title: lorem-ipsum
+      - title: Behtar Ads is Avaialble in 4 Languages
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
