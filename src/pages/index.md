@@ -83,7 +83,7 @@ sections:
       - title: Behtar Ads is Available in 4 Languages
         image_alt: lorem-ipsum
         actions: []
-        image: images/Languages-trans.png
+        image: images/Languages-trans-30d6dbce.png
       - image_alt: lorem-ipsum
         actions: []
   - section_id: reviews
