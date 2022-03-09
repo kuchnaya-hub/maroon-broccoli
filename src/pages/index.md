@@ -81,8 +81,6 @@ sections:
         type: feature_item
         image: images/marvelous-giraffe.png
       - title: Behtar Ads is Available in 4 Languages
-        content: |
-          ![](images/Languages-02-9f1565ea.jpg)
         image_alt: lorem-ipsum
         actions: []
       - image_alt: lorem-ipsum
