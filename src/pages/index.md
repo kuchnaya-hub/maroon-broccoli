@@ -85,7 +85,6 @@ sections:
           ![](images/Languages-02-9f1565ea.jpg)
         image_alt: lorem-ipsum
         actions: []
-        image: images/Languages-02-f49150a7.jpg
       - image_alt: lorem-ipsum
         actions: []
   - section_id: reviews
