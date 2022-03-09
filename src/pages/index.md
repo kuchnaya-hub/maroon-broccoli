@@ -97,14 +97,6 @@ sections:
           The app is easy to use and also it helps me to create my marketing
           videos because of which my product advertisement has got much better
           response from the people.
-  - title: Our App is Available in 4 Languages
-    section_id: lorem-ipsum
-    content: |
-      ![](images/languages-ec2ec1b3.jpg)
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
   - title: lorem-ipsum
     section_id: lorem-ipsum
     content: >-
