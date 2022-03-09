@@ -80,7 +80,7 @@ sections:
             type: action
         type: feature_item
         image: images/marvelous-giraffe.png
-      - title: lorem-ipsum
+      - title: b
         content: |
           ![](images/Languages-02-9f1565ea.jpg)
         image_alt: lorem-ipsum
