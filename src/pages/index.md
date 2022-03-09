@@ -139,6 +139,7 @@ sections:
           justo.
         image_alt: lorem-ipsum
         actions: []
+        image: images/languages-261afd2c.jpg
     type: section_features
   - section_id: recent-posts
     type: section_posts
