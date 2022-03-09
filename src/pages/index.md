@@ -80,6 +80,13 @@ sections:
             type: action
         type: feature_item
         image: images/marvelous-giraffe.png
+      - title: Behtar Ads is Available in 4 Languages
+        content: |
+          ![](images/Languages-02-9f1565ea.jpg)
+        image_alt: lorem-ipsum
+        actions: []
+      - image_alt: lorem-ipsum
+        actions: []
   - section_id: reviews
     type: section_reviews
     background: white
@@ -111,4 +118,5 @@ meta_description: >-
   Behtar, behtar ads
 template: landing
 canonical_url: 'https://behtarads.com/'
+no_index: false
 ---

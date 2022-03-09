@@ -6,6 +6,7 @@ export default function HTML(props) {
     <html {...props.htmlAttributes}>
       <head>
         {props.headComponents}
+        
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
