@@ -104,14 +104,6 @@ sections:
           The app is easy to use and also it helps me to create my marketing
           videos because of which my product advertisement has got much better
           response from the people.
-  - section_id: lorem-ipsum
-    background: gray
-    features:
-      - title: Behtar Ads is Available 4 Languages
-        image_alt: lorem-ipsum
-        actions: []
-        image: images/languages-261afd2c.jpg
-    type: section_features
   - section_id: recent-posts
     type: section_posts
     background: gray
