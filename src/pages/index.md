@@ -84,6 +84,8 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         image: images/Languages-02.jpg
+        content: |
+          dasda
   - section_id: reviews
     type: section_reviews
     background: white
