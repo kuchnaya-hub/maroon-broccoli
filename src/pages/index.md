@@ -103,8 +103,7 @@ sections:
           The app is easy to use and also it helps me to create my marketing
           videos because of which my product advertisement has got much better
           response from the people.
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
     features:
