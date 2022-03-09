@@ -104,7 +104,6 @@ sections:
           videos because of which my product advertisement has got much better
           response from the people.
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     background: gray
     features:
       - title: Behtar Ads is Available 4 Languages
