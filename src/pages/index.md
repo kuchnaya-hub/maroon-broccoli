@@ -80,7 +80,7 @@ sections:
             type: action
         type: feature_item
         image: images/marvelous-giraffe.png
-      - title: <br>Behtar Ads is Avaialble in 4 Languages
+      - title: Behtar Ads is Avaialble in 4 Languages
         image_alt: lorem-ipsum
         actions: []
         image: images/Languages-02.jpg
