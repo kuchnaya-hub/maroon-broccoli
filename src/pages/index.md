@@ -97,7 +97,7 @@ sections:
           The app is easy to use and also it helps me to create my marketing
           videos because of which my product advertisement has got much better
           response from the people.
-  - title: lorem-ipsum
+  - title: We are Availa
     section_id: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
