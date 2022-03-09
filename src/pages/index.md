@@ -102,7 +102,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     features:
-      - title: Behtar Ads is available
+      - title: Behtar Ads is available 4 Languages
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
