@@ -102,7 +102,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     features:
-      - title: Behtar Ads is available 4 Languages
+      - title: Behtar Ads is Available 4 Languages
         image_alt: lorem-ipsum
         actions: []
         image: images/languages-261afd2c.jpg
